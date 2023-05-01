@@ -3,6 +3,7 @@
 ## 👋 Welcome
 
 * [DevSec](README.md)
+* [Glossary](welcome/glossary.md)
 * [Contributing](welcome/contributing.md)
 * [Discussions](welcome/discussions.md)
 

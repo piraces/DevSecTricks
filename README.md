@@ -11,6 +11,10 @@ description: >-
 
 This page is intended as an always updated source for devs, inspired in the work of ["HackTricks"](https://book.hacktricks.xyz/), to serve as a reference for a secure development and related operations.
 
+{% hint style="info" %}
+🚧 Please not this is now under heavy development so expect some sections to have little/no content 🚧
+{% endhint %}
+
 ### Introduction
 
 You may heard about **DevSecOps**, the **shifting left** concept and **GitOps**...\[1] They all share a lot of principles, **reduce the time devs spend on security while achieving their objectives.**
@@ -21,11 +25,7 @@ In lots of products or projects we are already shifting left a lot of controls e
 
 **This is a process change, it's not about a single/specific tool or controls. It's about making all of security more developer-centric.**
 
-### **State of security**
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><strong>$4.35M is the global average total cost of a data breach</strong> [2]</td><td></td></tr><tr><td></td><td>Platforms such as GitHub are seeing <strong>more credential leaks than ever</strong> [3]</td><td></td></tr><tr><td>There are lot of dependencies in our projects. It's estimated that <strong>about a 80-90% of a codebase is made of dependencies</strong> [4]</td><td></td><td></td></tr><tr><td><strong>Remediation costs</strong> are always lower in early stages of development</td><td></td><td></td></tr></tbody></table>
-
-### Sources
+### Sources and links
 
 1. [GitHub Blog - Secure at every step: A guide to DevSecOps, shifting left, and GitOps](https://github.blog/2020-08-13-secure-at-every-step-a-guide-to-devsecops-shifting-left-and-gitops/)
 2. [IBM - Cost of a data breach 2022](https://www.ibm.com/reports/data-breach)
@@ -34,7 +34,8 @@ In lots of products or projects we are already shifting left a lot of controls e
 
 ### License
 
-Copyright (c) 2023 Raul Piraces Alastuey. This entire page and its contents are licensed under the MIT License.
+**Copyright (c) 2023 Raúl Piracés Alastuey.** **Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**DevSecTricks**](https://github.com/piraces/DevSecTricks) **by Raúl Piracés is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
+**If you want to use it with commercial purposes, contact me.**
 
 ### Disclaimer
 
@@ -57,3 +58,5 @@ The user is solely responsible for any actions taken based on the information co
 
 By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
 {% endhint %}
+
+[![Creative Commons License](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
