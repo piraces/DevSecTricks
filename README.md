@@ -12,7 +12,7 @@ description: >-
 This page is intended as an always updated source for devs, inspired in the work of ["HackTricks"](https://book.hacktricks.xyz/), to serve as a reference for a secure development and related operations.
 
 {% hint style="info" %}
-🚧 Please not this is now under heavy development so expect some sections to have little/no content 🚧
+🚧 Please note that this is now under heavy development so expect some sections to have little/no content 🚧
 {% endhint %}
 
 ### Introduction
