@@ -4,6 +4,16 @@ description: Here it goes a very long list of all kinds of resources
 
 # Other
 
+## Intro
+
+In this page there are a lot of resources I found along the way... They are organized and can appear or match better in other section, but the main purpose of this section is to provide external links to all possible related security resources.
+
+{% hint style="info" %}
+If you detect some broken links, outdated resources or something missing, please help by editing this page 🙏\
+\
+Outdated resources are marked with the symbol: ⚠️
+{% endhint %}
+
 ## Institutions
 
 * [CISA (Cybersecurity and Infrastructure Security Agency)](https://www.cisa.gov/)
