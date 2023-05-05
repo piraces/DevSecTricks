@@ -75,7 +75,7 @@
   * [Java](languages/jvm-based/java.md)
 * [JavaScript](languages/javascript.md)
 * [Rust](languages/rust.md)
-* [Go](languages/go.md)
+* [Golang](languages/golang.md)
 * [Ruby](languages/ruby.md)
 * [Python](languages/python.md)
 * [PHP](languages/php.md)
