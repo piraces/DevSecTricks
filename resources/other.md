@@ -23,6 +23,8 @@ Outdated resources are marked with the symbol: ⚠️
 
 * [OWASP](https://owasp.org/): The Open Worldwide Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software.
 * [OISF](https://oisf.net/): The Open Information Security Foundation is a 501(c)3 nonprofit organization created to build community and to support open source security technologies like Suricata, the world-class IDS/IPS network monitoring engine.
+* [CIS (Center for Internet Security)](https://www.cisecurity.org/): harnessing the power of global IT community to safeguard public and private organizations against cyber threats.
+* [PCI (Security Standards Council)](https://www.pcisecuritystandards.org/): The PCI Security Standards Council (PCI SSC) is a global forum that brings together payments industry stakeholders to develop and drive adoption of data security standards and resources for safe payments worldwide.
 * [OpenSCAP](https://www.open-scap.org/): an ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines.
 
 ## Communities
@@ -32,6 +34,10 @@ Outdated resources are marked with the symbol: ⚠️
 
 ## Enterprises / Products
 
+* [GitHub Security](https://github.com/security): protect and defend the most trustworthy platform for developers everywhere to create and build software.
+* [Sonar (SonarSource)](https://www.sonarsource.com/): achieve a state of Clean Code so that all code is fit for development and production.
+* [Snyk](https://snyk.io/): find and automatically fix vulnerabilities in your code, open source dependencies, containers, and infrastructure as code.
+* [MITRE](https://www.mitre.org/): applying systems thinking to national challenges in defense, cybersecurity, healthcare, homeland security, & transportation.
 * [Palo Alto Networks](https://www.paloaltonetworks.com/): several security solutions.
 * [NCC Group](https://www.nccgroup.com/): several solutions.
 * [Aqua](https://www.aquasec.com/): several solutions and tools (some open source).&#x20;
@@ -39,7 +45,9 @@ Outdated resources are marked with the symbol: ⚠️
 * [Qualys](https://www.qualys.com/): provider of information security and compliance cloud solutions.
 * [GuardRails](https://www.guardrails.io/): GuardRails eliminates vulnerabilities at source, educates developers in real-time, minimizes the security bottleneck, and helps organizations go faster to market.
 * [GitGuardian](https://www.gitguardian.com/): git security scanning & secrets detection.
+* [TruffleSecurity](https://trufflesecurity.com/): make security problems more identifiable, accessible and easier to fix.
 * [Progress Chef (Security)](https://www.chef.io/): extend DevOps Value with Cloud-to-Edge Security and Compliance.
+* [Acunetix](https://www.acunetix.com/): find and fix the vulnerabilities that put your web applications at risk of attack.
 * [Cilium](https://cilium.io/): an open source, cloud native solution for providing, securing, and observing network connectivity between workloads, fueled by the revolutionary Kernel technology eBPF.
 * [datree](https://www.datree.io/): secures your Kubernetes by blocking the deployment of misconfigured resources.
 * [LunaSec](https://www.lunasec.io/): Open Source Data Security Platform.
@@ -50,7 +58,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Cider](https://www.cidersecurity.io/): control your application security from code to deployment.
 * [deepfence](https://deepfence.io/): Detect, Protect and Remediate Cloud Attacks.
 * [CrowdSec](https://www.crowdsec.net/): real-time & crowdsourced protection against aggressive IPs.
-* [tenable](https://www.tenable.com/): Exposure Management Company
+* [tenable](https://www.tenable.com/): Exposure Management Company.
 * [PyUp](https://pyup.io/): End-to-end Python Dependency Security.
 * [Project Discovery](https://projectdiscovery.io/): an open-source software company that builds tools to detect and remediate vulnerabilities across your modern tech stack.
 * [Smallstep](https://smallstep.com/): identify security issues, prioritize what matters, and protect network assets. Built for modern operational environments on the cloud and on-premise.
@@ -61,6 +69,8 @@ Outdated resources are marked with the symbol: ⚠️
 * [Faraday](https://faradaysec.com/): open source Vulnerability Management Platform.
 * [StrangeBee](https://www.strangebee.com/): provides cutting edge incident response automation to hundreds of SOC, CERT & CSIRT teams.
 * [Cisco Duo](https://duo.com/): Easy, Flexible Cybersecurity Solutions for Everyone.
+* [CAST](https://www.castsoftware.com/): software intelligence automated - actionable insights into your software inner workings.
+* [Greenbone](https://www.greenbone.net/en/): provider of open source vulnerability management.
 * [Turbot](https://turbot.com/): cloud tools.
 * [Paragon](https://paragonie.com/): software consulting with attention to security above compliance.
 
@@ -149,6 +159,10 @@ Outdated resources are marked with the symbol: ⚠️
 
 * [DevSecOps](https://github.com/hahwul/DevSecOps): roadmap for everyone who wants DevSecOps.
 
+## Knowledge base
+
+* [MITRE ATTACK (ATT\&CK)](https://attack.mitre.org/): is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+
 ## Advisories databases
 
 * [RustSec](https://rustsec.org/): vulnerability database for the Rust ecosystem.
@@ -157,6 +171,7 @@ Outdated resources are marked with the symbol: ⚠️
 ## Projects
 
 * [OWASP API Security Project](https://owasp.org/www-project-api-security/)
+* [OWASP Secure Headers Project](https://owasp.org/www-project-secure-headers/)
 * [OWASP MASVS (Mobile Application Security Verification Standard)](https://mas.owasp.org/): the industry standard for mobile app security.
 
 ## Tools
@@ -170,14 +185,23 @@ Outdated resources are marked with the symbol: ⚠️
 * [Sobelow](https://github.com/nccgroup/sobelow): security-focused static analysis for the Phoenix Framework.
 * [gau (getallurls)](https://github.com/lc/gau): fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 * Google [OSS-Fuzz](https://github.com/google/oss-fuzz) ([web](https://google.github.io/oss-fuzz)): continuous fuzzing for open source software.
+* Greenbone [OpenVAS](https://www.openvas.org/): a full-featured vulnerability scanner.
+  * [Community edition](https://github.com/greenbone/openvas-scanner) ([web](https://greenbone.github.io/docs/latest/))
+* [Security-bugtracker](https://github.com/designsecurity/security-bugtracker): a tool to run security tools and track security bugs easily.
+* [PMD - source code analyzer](https://github.com/pmd/pmd) ([web](https://pmd.github.io/)): an extensible multilanguage static code analyzer.
+* [Semgrep](https://github.com/returntocorp/semgrep) ([web](https://semgrep.dev/)): lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 #### Web
 
+* [OWASP ZAP (Zed Attack Proxy)](https://www.zaproxy.org/): The world’s most widely used web app scanner. Free and open source.
 * [Dalfox ](https://github.com/hahwul/dalfox)([web](https://dalfox.hahwul.com/)): a powerful open-source XSS scanner and utility focused on automation.
 * [bunkerweb](https://github.com/bunkerity/bunkerweb) ([web](https://docs.bunkerweb.io/)): a web server based on the notorious NGINX and focused on security.
 * [CSP Evaluator](https://csp-evaluator.withgoogle.com/): CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
   * [Chrome extension](https://chrome.google.com/webstore/detail/csp-evaluator/fjohamlofnakbnbfjkohkbdigoodcejf)
 * [Vulmap](https://github.com/zhzyker/vulmap/blob/main/readme.us-en.md) (English/Chinese): Web vulnerability scanning and verification tools.
+* TruffleSecurity [XSSHunter](https://github.com/trufflesecurity/xsshunter) ([web](https://xsshunter.trufflesecurity.com/https://xsshunter.trufflesecurity.com/)): the fastest way to set up XSS Hunter to test and find blind cross-site scripting vulnerabilities.
+* [Arachni](https://github.com/Arachni/arachni) ([web](https://www.arachni-scanner.com/)) (⚠️): web application security scanner framework.
+* [ecsypno SCNR](https://ecsypno.com/): web application security scanner framework (Arachni successor).
 
 #### API
 
@@ -188,6 +212,10 @@ Outdated resources are marked with the symbol: ⚠️
 * [OWASP Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs) ([web](https://find-sec-bugs.github.io/)): the SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects).
 * [SpotBugs ](https://github.com/spotbugs/spotbugs)([web](https://spotbugs.github.io/)): SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 
+#### JavaScript
+
+* [JSHint](https://github.com/jshint/jshint) ([web](http://jshint.com/)): a tool that helps to detect errors and potential problems in your JavaScript code.
+
 #### Node.js
 
 * [nodejsscan](https://github.com/ajinabraham/nodejsscan): a static security code scanner for Node.js applications.
@@ -196,6 +224,7 @@ Outdated resources are marked with the symbol: ⚠️
 #### Golang
 
 * [gosec](https://github.com/securego/gosec) ([web](https://securego.io/)): Golang security checker.
+* [Staticcheck](https://github.com/dominikh/go-tools) ([web](https://staticcheck.io/)): a state of the art linter for the Go programming language. Using static analysis, it finds bugs and performance issues, offers simplifications, and enforces style rules.
 * [GoKart](https://github.com/praetorian-inc/gokart): a static analysis tool for securing Go code.
 
 #### Python
@@ -209,10 +238,12 @@ Outdated resources are marked with the symbol: ⚠️
 
 #### PHP
 
+* [progpilot](https://github.com/designsecurity/progpilot): a static application security testing (SAST) for PHP.
 * [iniscan](https://github.com/psecio/iniscan) (⚠️): php.ini scanner for best security practices.
 
 #### Kubernetes (k8s)
 
+* Aqua [kube-bench](https://github.com/aquasecurity/kube-bench): kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
 * [Kube-score](https://github.com/zegl/kube-score) ([web](https://kube-score.com/)): Kubernetes object analysis with recommendations for improved reliability and security.
 * Cilium [Tetragon](https://github.com/cilium/tetragon): eBPF-based Security Observability and Runtime Enforcement.
 * Cilium [Hubble](https://github.com/cilium/hubble): Network, Service & Security Observability for Kubernetes using eBPF.
@@ -228,7 +259,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 * Consensys [MythX](https://mythx.io/): Smart contract security service for Ethereum.
 * Consensys [Mythril](https://github.com/ConsenSys/mythril) ([web](https://mythx.io/)): Security analysis tool for EVM bytecode.
-* [Echidna](https://github.com/crytic/echidna): A Fast Smart Contract Fuzzer
+* [Echidna](https://github.com/crytic/echidna): a Fast Smart Contract Fuzzer.
 
 #### WAF
 
@@ -247,6 +278,8 @@ Outdated resources are marked with the symbol: ⚠️
 
 * Qualys [SSL Labs (Server test)](https://www.ssllabs.com/ssltest/): free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
   * [Other tests](https://www.ssllabs.com/)
+* [testssl.sh](https://testssl.sh/): a free command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws and more.
+* [sslscan](https://github.com/rbsec/sslscan): tests SSL/TLS enabled services to discover supported cipher suites.
 * [sslyze](https://github.com/nabla-c0d3/sslyze): fast and powerful SSL/TLS scanning library.
 
 #### OOB (Out-of-band)
@@ -263,6 +296,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 * [Aqua CloudSploit](https://github.com/aquasecurity/cloudsploit) ([web](https://www.aquasec.com/products/cspm/)): Cloud Security Scans.
 * Deepfence [ThreatMapper](https://github.com/deepfence/ThreatMapper): Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
+* [CloudQuery](https://github.com/cloudquery/cloudquery) ([web](https://www.cloudquery.io/)): an open source high performance data integration platform built for developers.
 * [Steampipe](https://github.com/turbot/steampipe) ([web](https://steampipe.io/)): use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
 * NCC Group [ScoutSuite](https://github.com/nccgroup/ScoutSuite): Multi-Cloud Security Auditing Tool.
 * [Prowler](https://github.com/prowler-cloud/prowler) ([web](https://www.prowler.pro/)): an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness.
@@ -274,11 +308,21 @@ Outdated resources are marked with the symbol: ⚠️
 
 ### Secrets management
 
+* [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/): safeguard cryptographic keys and other secrets used by cloud apps and services.
+* [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/): helps you manage, retrieve, and rotate database credentials, API keys, and other secrets throughout their lifecycles.
+* [Google Cloud Secret Manager](https://cloud.google.com/secret-manager): a secure and convenient storage system for API keys, passwords, certificates, and other sensitive data.
+* [HashiCorp Vault](https://www.hashicorp.com/products/vault): manage access to secrets and protect sensitive data.
+* [Akeyless Vault Platform](https://www.akeyless.io/secrets-management/secrets-store/): prevent secrets from being exposed in source code, configuration files and the CI/CD pipeline without slowing down development.
+* [Doppler](https://www.doppler.com/): the uncomplicated way to sync, manage, orchestrate, and rotate secrets across any environment or app config with easy to use tools.
 * Mozilla [SOPS](https://github.com/mozilla/sops) (Secrets OPerationS): simple and flexible tool for managing secrets.
 
 ### Secrets Scanning
 
+* TruffleSecurity [Trufflehog](https://github.com/trufflesecurity/trufflehog) ([web](https://trufflesecurity.com/trufflehog/)): find and verify credentials.
+  * [Chrome extension](https://chrome.google.com/webstore/detail/trufflehog/bafhdnhjnlcdbjcdcnafhdcphhnfnhjc)
+* [gitleaks](https://github.com/gitleaks/gitleaks) ([web](https://gitleaks.io/)): a fast, light-weight, portable, and open-source secret scanner for git repositories, files, and directories.
 * Deepfence [SecretScanner](https://github.com/deepfence/SecretScanner): find secrets and passwords in container images and file systems.
+* TruffleSecurity [Driftwood](https://github.com/trufflesecurity/driftwood): a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user.
 
 ### Workloads
 
@@ -298,7 +342,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 #### Containers
 
-* Anchore [syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystem
+* Anchore [syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystem.
 
 ### Vulnerabilities
 
@@ -311,6 +355,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 ### IaC
 
+* Aqua [tfsec](https://github.com/aquasecurity/tfsec) ([web](https://aquasecurity.github.io/tfsec/)): a static analysis security scanner for your Terraform code.
 * Tenable [terrascan](https://github.com/tenable/terrascan) ([web](https://runterrascan.io/)): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
 ### Packages and dependencies
@@ -332,7 +377,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 #### Ruby ecosystem
 
-* [bundler-audit](https://github.com/rubysec/bundler-audit): patch-level verification for Bundler
+* [bundler-audit](https://github.com/rubysec/bundler-audit): patch-level verification for Bundler.
 
 ### Supply chain focused
 
@@ -341,7 +386,7 @@ Outdated resources are marked with the symbol: ⚠️
 ### Firmware
 
 * [EMBA ](https://github.com/e-m-b-a/emba)([web](https://www.securefirmware.de/)): the firmware security analyzer.
-* [chipsec](https://github.com/chipsec/chipsec) ([web](https://chipsec.github.io/)): platform Security Assessment Framework
+* [chipsec](https://github.com/chipsec/chipsec) ([web](https://chipsec.github.io/)): platform Security Assessment Framework.
 
 ### Malware detection
 
@@ -349,6 +394,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 ### Vulnerable to learn
 
+* [VulnHub](https://www.vulnhub.com/): provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks.
 * [Badssl.com](https://github.com/chromium/badssl.com) ([web](https://badssl.com/)): memorable site for testing clients against bad SSL configs.
 * [CI/CD GOAT](https://github.com/cider-security-research/cicd-goat): a deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 * [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ([web](https://madhuakula.com/kubernetes-goat)): a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground.
