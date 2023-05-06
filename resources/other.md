@@ -18,12 +18,15 @@ Outdated resources are marked with the symbol: ⚠️
 
 * [CISA (Cybersecurity and Infrastructure Security Agency)](https://www.cisa.gov/)
   * [GitHub](https://github.com/cisagov)
+* [NIST (National Institute of Standards and Technology)](https://www.nist.gov/)
+  * [GitHub](https://github.com/usnistgov)
 
 ## Organizations / Foundations
 
 * [OWASP](https://owasp.org/): The Open Worldwide Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software.
 * [OISF](https://oisf.net/): The Open Information Security Foundation is a 501(c)3 nonprofit organization created to build community and to support open source security technologies like Suricata, the world-class IDS/IPS network monitoring engine.
 * [CIS (Center for Internet Security)](https://www.cisecurity.org/): harnessing the power of global IT community to safeguard public and private organizations against cyber threats.
+* [CSA (Cloud Security Aliance)](https://cloudsecurityalliance.org/): The Cloud Security Alliance (CSA) is the world’s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment.
 * [PCI (Security Standards Council)](https://www.pcisecuritystandards.org/): The PCI Security Standards Council (PCI SSC) is a global forum that brings together payments industry stakeholders to develop and drive adoption of data security standards and resources for safe payments worldwide.
 * [OpenSCAP](https://www.open-scap.org/): an ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines.
 
@@ -71,6 +74,9 @@ Outdated resources are marked with the symbol: ⚠️
 * [Cisco Duo](https://duo.com/): Easy, Flexible Cybersecurity Solutions for Everyone.
 * [CAST](https://www.castsoftware.com/): software intelligence automated - actionable insights into your software inner workings.
 * [Greenbone](https://www.greenbone.net/en/): provider of open source vulnerability management.
+* [Fluid attacks](https://fluidattacks.com/): multiple techniques in a single solution to secure your technology throughout the software development lifecycle.
+* [Bridgecrew](https://bridgecrew.io/): natively embed security into your development tools and workflows to secure your cloud-native applications at the source.
+* [Armo (Armosec)](https://www.armosec.io/): secure your Kubernetes and CI/CD in less than three minutes with the most powerful open-source Kubernetes security solution on the planet.
 * [Turbot](https://turbot.com/): cloud tools.
 * [Paragon](https://paragonie.com/): software consulting with attention to security above compliance.
 
@@ -109,6 +115,8 @@ Outdated resources are marked with the symbol: ⚠️
 * [Awesome EVM Securi](https://github.com/kareniel/awesome-evm-security#readme)[ty](https://github.com/kareniel/awesome-evm-security#readme)
 * [Awesome DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme)
 * [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme)
+* [Awesome CodeQL](https://github.com/felickz/awesome-codeql)
+* [Awesome YARA](https://github.com/InQuest/awesome-yara)
 
 ### Checklists
 
@@ -165,8 +173,22 @@ Outdated resources are marked with the symbol: ⚠️
 
 ## Advisories databases
 
+* [OSV](https://osv.dev/): a distributed vulnerability database for Open Source.
+  * [OSV.dev mantained converters](https://github.com/google/osv.dev#current-data-sources):&#x20;
+* [GitHub Advisory Database](https://github.com/github/advisory-database) ([web](https://github.com/advisories)): security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+  * [Security advisories reported on GitHub](https://docs.github.com/en/code-security/security-advisories/repository-security-advisories/about-repository-security-advisories)
+* [National Vulnerability Database](https://nvd.nist.gov/)
+* [Global Security Database](https://github.com/cloudsecurityalliance/gsd-databasehttps://github.com/cloudsecurityalliance/gsd-database) ([web](https://gsd.id/))
+* [npm Security Advisories Database](https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm)
+* [FriendsOfPHP Database](https://github.com/FriendsOfPHP/security-advisories)
+* [Go Vulnerability Database](https://vuln.go.dev/)
+* [Python Packaging Advisory Database](https://github.com/pypa/advisory-database) (PyPI)
 * [RustSec](https://rustsec.org/): vulnerability database for the Rust ecosystem.
 * [Ruby Advisory Database](https://github.com/rubysec/ruby-advisory-db): the Ruby Advisory Database is a community effort to compile all security advisories that are relevant to Ruby libraries.
+* [LoopBack Security Advisories (LBSA)](https://github.com/loopbackio/security/tree/main/advisories)
+* [Google OSS-Fuzz vulnerabilities](https://github.com/google/oss-fuzz-vulns)
+* [Rocky Linux](https://distro-tools.rocky.page/apollo/openapi/#osv)
+* [AlmaLinux](https://github.com/AlmaLinux/osv-database)
 
 ## Projects
 
@@ -207,6 +229,10 @@ Outdated resources are marked with the symbol: ⚠️
 
 * [Astra](https://github.com/flipkart-incubator/Astra): automated Security Testing For REST API's.
 
+#### C/C++
+
+* [Flawfinder](https://github.com/david-a-wheeler/flawfinder) ([web](http://dwheeler.com/flawfinder)): a simple program that scans C/C++ source code and reports potential security flaws.
+
 #### JVM based
 
 * [OWASP Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs) ([web](https://find-sec-bugs.github.io/)): the SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects).
@@ -244,6 +270,7 @@ Outdated resources are marked with the symbol: ⚠️
 #### Kubernetes (k8s)
 
 * Aqua [kube-bench](https://github.com/aquasecurity/kube-bench): kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
+* Armo [Kubescape](https://github.com/kubescape/kubescape): an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
 * [Kube-score](https://github.com/zegl/kube-score) ([web](https://kube-score.com/)): Kubernetes object analysis with recommendations for improved reliability and security.
 * Cilium [Tetragon](https://github.com/cilium/tetragon): eBPF-based Security Observability and Runtime Enforcement.
 * Cilium [Hubble](https://github.com/cilium/hubble): Network, Service & Security Observability for Kubernetes using eBPF.
@@ -285,6 +312,14 @@ Outdated resources are marked with the symbol: ⚠️
 #### OOB (Out-of-band)
 
 * [interact.sh](https://github.com/projectdiscovery/interactsh) ([web](https://app.interactsh.com/)): an open-source tool for detecting out-of-band interactions. It is a tool designed to detect vulnerabilities that cause external interactions.
+
+### Rule / Analysis engines
+
+* GitHub [CodeQL](https://github.com/github/codeql) ([web](https://codeql.github.com/)): discover vulnerabilities across a codebase with CodeQL, our industry-leading semantic code analysis engine.
+  * [CLI](https://codeql.github.com/docs/codeql-cli/)
+  * [Visual Studio Code extension](https://codeql.github.com/docs/codeql-for-visual-studio-code/)
+  * [Documentation](https://codeql.github.com/docs/)
+* [YARA](https://github.com/virustotal/yara) ([web](https://virustotal.github.io/yara/)): YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples.
 
 ### Multi-purpose
 
@@ -346,6 +381,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 ### Vulnerabilities
 
+* Google [OSV-Scanner](https://github.com/google/osv-scanner) ([web](https://google.github.io/osv-scanner/)): vulnerability scanner written in Go which uses the data provided by [https://osv.dev](https://osv.dev).
 * [Faraday](https://github.com/infobyte/faraday): Open Source Vulnerability Management Platform.
 * [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector): vulnerability scanner for binaries.
 * [Metlo](https://github.com/metlo-labs/metlo): open-source API security platform.
@@ -357,6 +393,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 * Aqua [tfsec](https://github.com/aquasecurity/tfsec) ([web](https://aquasecurity.github.io/tfsec/)): a static analysis security scanner for your Terraform code.
 * Tenable [terrascan](https://github.com/tenable/terrascan) ([web](https://runterrascan.io/)): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+* Bridgecrew [Checkov](https://github.com/bridgecrewio/checkov) ([web](https://www.checkov.io/)): prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages.
 
 ### Packages and dependencies
 
@@ -364,6 +401,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 * OWASP [Dependency-Track](https://github.com/DependencyTrack/dependency-track) ([web](https://dependencytrack.org/)): an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * OWASP [Dependency-Check](https://github.com/jeremylong/DependencyCheck) ([web](https://owasp.org/www-project-dependency-check/)): a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+* [Confused](https://github.com/visma-prodsec/confused): a tool to check for dependency confusion vulnerabilities in multiple package management systems.
 
 #### npm/js ecosystems
 
@@ -378,6 +416,10 @@ Outdated resources are marked with the symbol: ⚠️
 #### Ruby ecosystem
 
 * [bundler-audit](https://github.com/rubysec/bundler-audit): patch-level verification for Bundler.
+
+#### dotnet ecosystem
+
+* [ConfusedDotnet](https://github.com/visma-prodsec/ConfusedDotnet): a tool for checking for lingering free namespaces for private package names referenced in dependency configuration for Nuget (nuget) packages.config or the new PackageReference style.
 
 ### Supply chain focused
 
@@ -397,6 +439,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [VulnHub](https://www.vulnhub.com/): provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks.
 * [Badssl.com](https://github.com/chromium/badssl.com) ([web](https://badssl.com/)): memorable site for testing clients against bad SSL configs.
 * [CI/CD GOAT](https://github.com/cider-security-research/cicd-goat): a deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
+* Bridgecrew [TerraGoat](https://github.com/bridgecrewio/terragoat): "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
 * [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ([web](https://madhuakula.com/kubernetes-goat)): a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground.
 * [KaiMonkey](https://github.com/tenable/KaiMonkey): vulnerable Terraform Infrastructure.
 * [Java Sec Code](https://github.com/JoyChou93/java-sec-code): a very powerful and friendly project for learning Java vulnerability code.
@@ -412,3 +455,6 @@ Outdated resources are marked with the symbol: ⚠️
 * [recconFTW](https://github.com/six2dez/reconftw): a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities.
 * [MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt) ([web](https://mvt.re/)): helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 * [RouterSploit](https://github.com/threat9/routersploit): exploitation Framework for Embedded Devices.
+* [vulscan (Nmap)](https://github.com/scipag/vulscan) ([web](https://www.computec.ch/projekte/vulscan/)): advanced vulnerability scanning with Nmap NSE.
+* [scan4all](https://github.com/hktalent/scan4all) ([web](https://scan4all.51pwn.com/)): official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty.
+  * [Other author repositories](https://github.com/hktalent)
