@@ -38,15 +38,21 @@ Outdated resources are marked with the symbol: ⚠️
 ## Enterprises / Products
 
 * [GitHub Security](https://github.com/security): protect and defend the most trustworthy platform for developers everywhere to create and build software.
+* [GitLab Security](https://about.gitlab.com/solutions/dev-sec-ops/): empowers your teams to balance speed and security by automating software delivery and securing your end-to-end software supply chain.
 * [Sonar (SonarSource)](https://www.sonarsource.com/): achieve a state of Clean Code so that all code is fit for development and production.
+* [Datadog](https://www.datadoghq.com/): the monitoring and security platform for cloud applications.
 * [Snyk](https://snyk.io/): find and automatically fix vulnerabilities in your code, open source dependencies, containers, and infrastructure as code.
 * [MITRE](https://www.mitre.org/): applying systems thinking to national challenges in defense, cybersecurity, healthcare, homeland security, & transportation.
 * [Palo Alto Networks](https://www.paloaltonetworks.com/): several security solutions.
+* [Rapid7](https://www.rapid7.com/): A powerful, practitioner-first approach for comprehensive, operationalized risk & threat response and results.
 * [NCC Group](https://www.nccgroup.com/): several solutions.
 * [Aqua](https://www.aquasec.com/): several solutions and tools (some open source).&#x20;
 * [Anchore](https://anchore.com/): Software Supply Chain Security.
+* [Synopsis](https://www.synopsys.com/): software security - helps you protect your bottom line by building trust in your software.
+* [Checkmarkx](https://checkmarx.com/): Shift Everywhere With the Leading Cloud-Native AppSec Platform.
 * [Qualys](https://www.qualys.com/): provider of information security and compliance cloud solutions.
 * [GuardRails](https://www.guardrails.io/): GuardRails eliminates vulnerabilities at source, educates developers in real-time, minimizes the security bottleneck, and helps organizations go faster to market.
+* [CrowdStrike](https://www.crowdstrike.com/): We stop cyberattacks, we stop breaches, we stop a lot of bad things from happening.
 * [GitGuardian](https://www.gitguardian.com/): git security scanning & secrets detection.
 * [TruffleSecurity](https://trufflesecurity.com/): make security problems more identifiable, accessible and easier to fix.
 * [Progress Chef (Security)](https://www.chef.io/): extend DevOps Value with Cloud-to-Edge Security and Compliance.
@@ -79,6 +85,28 @@ Outdated resources are marked with the symbol: ⚠️
 * [Armo (Armosec)](https://www.armosec.io/): secure your Kubernetes and CI/CD in less than three minutes with the most powerful open-source Kubernetes security solution on the planet.
 * [Turbot](https://turbot.com/): cloud tools.
 * [Paragon](https://paragonie.com/): software consulting with attention to security above compliance.
+* [runZero](https://www.runzero.com/): get unmatched visibility and insights into every asset connected to your network.
+* [Panther](https://panther.com/): alleviates the pain of traditional SIEMs with detection-as-code, a robust security data lake, and high scalability with zero-ops.
+* [Tines](https://www.tines.com/): No-code automation for security teams.
+* [Material](https://material.security/): fights phishing and provides visibility, defense-in-depth, and security infrastructure for Office 365 and Google Workspace.
+* [GreyNoise](https://www.greynoise.io/): Turning internet noise into intelligence.
+* [Teleport](https://goteleport.com/): The Open Infrastructure Access Platform. The easiest, most secure way to access all your infrastructure.
+* [Thinkst Canary](https://canary.tools/): Order, configure and deploy your Canaries throughout your network. Your Canaries run in the background, waiting for intruders.
+* [JupiterOne](https://www.jupiterone.com/): Secure your attack surface with continuous asset discovery and attack path analysis.
+* [LaceWork](https://www.lacework.com/): Secure your entire cloud from one place.
+* [Drata](https://drata.com/): automates your compliance journey from start to audit-ready and beyond and provides support from the security and compliance experts who built it.
+* [VeraCode](https://www.veracode.com/): Continuously Find and Fix Flaws at Every Stage of The Modern Software Development Lifecycle.
+* [Micro Focus (Open Text)](https://www.microfocus.com/): empowers and protects information to elevate every person and every organization to their full potential.
+* [Orca Security](https://orca.security/): the industry-leading Cloud Security Platform that identifies, prioritizes, and remediates security risks and compliance issues across your cloud estate spanning AWS, Azure, Alibaba Cloud, Google Cloud and Kubernetes.
+* [StackHawk](https://www.stackhawk.com/): makes it simple for developers to find, triage, and fix application security bugs. AppSec Closer to the Keyboard than Ever Before.
+* [Socket](https://socket.dev/): fights vulnerabilities and provides visibility, defense-in-depth, and proactive supply chain protection for JavaScript and Python dependencies.
+* [Impart Security](https://www.impart.security/): Discover and block API attacks using inline enforcement and developer enablement tools.
+* [Censys](https://censys.io/): empowers security teams with the most comprehensive, accurate, and up-to-date map of the internet to defend attack surfaces and hunt for threats.
+* [HCL Software](https://www.hcltechsw.com/): Security from Application to Endpoint.
+* [Invicti](https://www.invicti.com/): vulnerability scanner for your web applications.
+* [Data Theorem](https://www.datatheorem.com/): modern application security.
+* [Contrast Security](https://www.contrastsecurity.com/): Ignite innovation velocity on the only unified security platform built to get secure code moving through the entire application development pipeline and continuously protect your apps across the complete software lifecycle.
+* [Onapsis](https://onapsis.com/): business application cybersecurity.
 
 ## Lists
 
@@ -358,6 +386,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [gitleaks](https://github.com/gitleaks/gitleaks) ([web](https://gitleaks.io/)): a fast, light-weight, portable, and open-source secret scanner for git repositories, files, and directories.
 * Deepfence [SecretScanner](https://github.com/deepfence/SecretScanner): find secrets and passwords in container images and file systems.
 * TruffleSecurity [Driftwood](https://github.com/trufflesecurity/driftwood): a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user.
+* [stacs](https://github.com/stacscan/stacs): a YARA powered static credential scanner which suports binary file formats, analysis of nested archives, composable rulesets and ignore lists, and SARIF reporting.
 
 ### Workloads
 
