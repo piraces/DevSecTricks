@@ -16,3 +16,7 @@ From the [Static Analysis section](static-analysis.md), these tools covers "Supp
   * Snyk Open Source (SCA)
   * Snyk Container
 * **Trivy**
+
+## Other tools
+
+* [LunaSec](https://github.com/lunasec-io/lunasec): dependency Security Scanner that automatically notifies you about vulnerabilities.

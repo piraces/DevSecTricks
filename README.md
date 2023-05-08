@@ -9,7 +9,7 @@ description: >-
 
 **Welcome to the page where you will find all security related topics/tools/techniques made by developers for developers concerned about security.**
 
-This page is intended as an always updated source for devs, inspired in the work of ["HackTricks"](https://book.hacktricks.xyz/), to serve as a reference for a secure development and related operations.
+This page is intended as an always updated source for devs, inspired in the work of ["HackTricks"](https://book.hacktricks.xyz/), to serve as a reference for a secure development and related operations. Lots of references/resources in this page are extracted from other public sources, all credit to the **original authors (that will be referenced as sources).**
 
 {% hint style="info" %}
 🚧 Please note that this is now under heavy development so expect some sections to have little/no content 🚧

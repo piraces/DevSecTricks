@@ -23,6 +23,7 @@
 
 * [Static Analysis](tools/static-analysis.md)
 * [Dynamic Analysis](tools/dynamic-analysis.md)
+* [Vulnerabilities Analysis](tools/vulnerabilities-analysis.md)
 * [Dependency Management](tools/dependency-management.md)
 * [Supply Chain](tools/supply-chain.md)
 * [Secrets](tools/secrets/README.md)
