@@ -119,7 +119,7 @@ Outdated resources are marked with the symbol: ⚠️
 
 * [Main Awesome repo (Security section)](https://github.com/sindresorhus/awesome#security)
 * [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
-* [Awesome Game Security](../cloud/cloud-native-developments.md)
+* [Awesome Game Security](https://github.com/gmh5225/awesome-game-security/#readme)
 * [Awesome IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [Awesome Golang Security](https://github.com/guardrailsio/awesome-golang-security)
 * [Awesome Python Security](https://github.com/guardrailsio/awesome-python-security)
@@ -141,7 +141,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
 * [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 * [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
-* [Awesome EVM Securi](https://github.com/kareniel/awesome-evm-security#readme)[ty](https://github.com/kareniel/awesome-evm-security#readme)
+* [Awesome EVM Security](https://github.com/kareniel/awesome-evm-security#readme)
 * [Awesome DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme)
 * [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme)
 * [Awesome CodeQL](https://github.com/felickz/awesome-codeql)
