@@ -106,6 +106,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Invicti](https://www.invicti.com/): vulnerability scanner for your web applications.
 * [Data Theorem](https://www.datatheorem.com/): modern application security.
 * [Contrast Security](https://www.contrastsecurity.com/): Ignite innovation velocity on the only unified security platform built to get secure code moving through the entire application development pipeline and continuously protect your apps across the complete software lifecycle.
+* [ChainGuard](https://www.chainguard.dev/): Fortified software delivery.
 * [Onapsis](https://onapsis.com/): business application cybersecurity.
 
 ## Lists
@@ -400,6 +401,7 @@ Outdated resources are marked with the symbol: ⚠️
 ### Containers
 
 * [Dockle ](https://github.com/goodwithtech/dockle)([web](https://containers.goodwith.tech/)): container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start.
+* ChainGuard [Wolfi](https://github.com/wolfi-dev/) ([web](https://wolfi.dev/)): Wolfi is a community Linux OS designed for the container and cloud-native era.
 * [ufw-docker](https://github.com/chaifeng/ufw-docker): fix the Docker and UFW security flaw without disabling iptables.
 
 ### SBOM
