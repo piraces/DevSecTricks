@@ -8,6 +8,7 @@ description: You may want to attend this conferences!
 Conferences with the ⚠️ symbol may be not planned in the future or cancelled
 {% endhint %}
 
+* [Snyk Events & Webinars](https://snyk.io/events/)
 * [DevSecCon events](https://www.devseccon.com/events)
 * **KeyConf**: Annual conference for [Keycloak](https://www.keycloak.org/) users community.
 * [OWASP Events](https://owasp.org/events/)

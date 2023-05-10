@@ -102,7 +102,7 @@ Open source security scanner. Finds vulnerabilities & IaC misconfigurations, SBO
 
 * Container image
 * Filesystem
-* Git remotes repository
+* Git Repository (remote)
 * Virtual Machine Image
 * K8s
 * AWS
@@ -113,7 +113,47 @@ Getting started is easy with this one! [See "Quick Start" documentation](https:/
 
 **Official page:** [https://trivy.dev/](https://trivy.dev/)
 
+### BetterScan
+
+A simple and powerful DevSecOps software to automate thousands of checks and eliminate human errors in Source Code and Cloud Infrastructure. Integrateable into anything.
+
+#### Pricing:
+
+* Free - Community Edition (Starter Plan)
+* Other plans professional (for single developer) and business (on request)
+
+#### Solutions/Products
+
+**AIO tool with multiple scanners:**
+
+* Compatible with many programming languages (a lot)
+* DeFi Security (DeFi exploits)
+* Infrastructure as a Code (IaC)
+* Security and Best Practices (Docker, Kubernetes (k8s), Terraform AWS, GCP, Azure)
+* Secret Scanning (166+ secret types)
+* YARA rules for Antidebug, Antivm, Crypto, CVE, Exploits Kits, Malware, Webshells, APTs, Dependency Confusion, Trojan Source
+* Open Source and Proprietary Checks, SBOM, dependencies, also precise Graph based analysis) and AI/OpenAI GPT
+* SCA (software composition analysis) and Supply Chain Risks
+* Practically any Open Source and proprietary check can be added
+
+**Targets:**
+
+* Container images
+* K8s
+* IaC
+* Source Code
+* Git repositories
+* Cloud platforms
+
+{% hint style="info" %}
+Getting started is easy with this one too! See the [betterscan community edition repo](https://github.com/marcinguy/betterscan-ce) for getting the software and running it.
+{% endhint %}
+
+**Official page:** [https://www.betterscan.io/](https://www.betterscan.io/)
+
 ## Other Tools / Solutions / Products
+
+Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that compares the best static analysis tools and linters too.&#x20;
 
 ### Generic
 
@@ -137,6 +177,7 @@ Getting started is easy with this one! [See "Quick Start" documentation](https:/
 * [bunkerweb](https://github.com/bunkerity/bunkerweb) ([web](https://docs.bunkerweb.io/)): a web server based on the notorious NGINX and focused on security.
 * [CSP Evaluator](https://csp-evaluator.withgoogle.com/): CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
   * [Chrome extension](https://chrome.google.com/webstore/detail/csp-evaluator/fjohamlofnakbnbfjkohkbdigoodcejf)
+* [Csper](https://csper.io/): deploying and monitoring Content Security Policy a breeze. With automated tools and actionable insights, you'll be protecting your users in no time.
 * [Vulmap](https://github.com/zhzyker/vulmap/blob/main/readme.us-en.md) (English/Chinese): Web vulnerability scanning and verification tools.
 * TruffleSecurity [XSSHunter](https://github.com/trufflesecurity/xsshunter) ([web](https://xsshunter.trufflesecurity.com/https://xsshunter.trufflesecurity.com/)): the fastest way to set up XSS Hunter to test and find blind cross-site scripting vulnerabilities.
 * [Arachni](https://github.com/Arachni/arachni) ([web](https://www.arachni-scanner.com/)) (⚠️): web application security scanner framework.
@@ -181,6 +222,7 @@ Getting started is easy with this one! [See "Quick Start" documentation](https:/
 
 #### PHP
 
+* [Enlightn](https://github.com/enlightn/enlightn/) ([web](https://www.laravel-enlightn.com/)): scans your Laravel app code to provide you actionable recommendations on improving its performance, security & more (**offers pricing plans**).
 * [progpilot](https://github.com/designsecurity/progpilot): a static application security testing (SAST) for PHP.
 * [iniscan](https://github.com/psecio/iniscan) (⚠️): php.ini scanner for best security practices.
 
@@ -189,6 +231,7 @@ Getting started is easy with this one! [See "Quick Start" documentation](https:/
 * Aqua [kube-bench](https://github.com/aquasecurity/kube-bench): kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the CIS Kubernetes Benchmark.
 * Armo [Kubescape](https://github.com/kubescape/kubescape): an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters.
 * [Kube-score](https://github.com/zegl/kube-score) ([web](https://kube-score.com/)): Kubernetes object analysis with recommendations for improved reliability and security.
+* ControlPlane [Kubesec](https://github.com/controlplaneio/kubectl-kubesec) ([web](https://kubesec.io/)): a kubectl plugin for scanning Kubernetes pods, deployments, daemonsets and statefulsets with kubesec.io.
 * Cilium [Tetragon](https://github.com/cilium/tetragon): eBPF-based Security Observability and Runtime Enforcement.
 * Cilium [Hubble](https://github.com/cilium/hubble): Network, Service & Security Observability for Kubernetes using eBPF.
 * [Falco](https://github.com/falcosecurity/falco) ([web](https://falco.org/)): Cloud Native Runtime Security.
@@ -244,7 +287,16 @@ Getting started is easy with this one! [See "Quick Start" documentation](https:/
 
 ### Containers
 
+* [Docker Bench for Security](https://github.com/docker/docker-bench-security): a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* Anchore [grype](https://github.com/anchore/grype): vulnerability scanner for container images and filesystems.
+* [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint): a smarter Dockerfile linter that helps you build best practice Docker images.
 * [Dockle ](https://github.com/goodwithtech/dockle)([web](https://containers.goodwith.tech/)): container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start.
+* Quay [Clair](https://github.com/quay/clair) ([web](https://quay.io/)): is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker).
+* [Dagda](https://github.com/eliasgranderubio/dagda/) (⚠️): a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities.
+
+{% hint style="info" %}
+Checkout Snyk Container, and Trivy from Aqua Security too
+{% endhint %}
 
 ### Cloud
 

@@ -30,7 +30,6 @@
   * [Secrets Management](tools/secrets/secrets-management.md)
   * [Secrets Scanning](tools/secrets/secrets-scanning.md)
 * [Infrastructure as Code (IaC)](tools/infrastructure-as-code-iac.md)
-* [Monitoring](tools/monitoring.md)
 * [Other](tools/other.md)
 
 ## 🔧 Generic Development

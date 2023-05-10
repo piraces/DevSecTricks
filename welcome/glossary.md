@@ -9,6 +9,9 @@ description: Find here some terms you may not heard of...
 * **DevSecOps:** "DevSecOps" stands for development, security, and operations. It's an approach to culture, automation, and platform design that integrates security as a shared responsibility throughout the entire IT lifecycle [\[source\]](https://www.redhat.com/en/topics/devops/what-is-devsecops).
 * **SasS:** short for "Software as a Service".
 * **SAST:** short for "Static Application Security Testing". Analysing source code to identify vulnerabilities.
+* **DAST:** short for "Dynamic Application Security Testing". Analysing the application from the outside using the available outputs and inputs (a black-box approach).
+* **IAST:** short for "Interactive Application Security Testing". Combine static and dynamic techniques to improve testing [\[source\]](https://www.contrastsecurity.com/security-influencers/why-the-difference-between-sast-dast-and-iast-matters).
+* **SDLC:** short for "Software Development Lifecycle". Is the cost-effective and time-efficient process that development teams use to design and build high-quality software [\[source\]](https://aws.amazon.com/what-is/sdlc/).
 * **SCA:** short for "Software Composition Analysis". Analysing dependencies in a codebase to manage exposure to security and/or license compliance issues.
 * **SRE:** short for "Site Reliability Engineering".
 * **K8s:** short-way to write "Kubernetes".

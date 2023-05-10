@@ -29,6 +29,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [CSA (Cloud Security Aliance)](https://cloudsecurityalliance.org/): The Cloud Security Alliance (CSA) is the world’s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment.
 * [PCI (Security Standards Council)](https://www.pcisecuritystandards.org/): The PCI Security Standards Council (PCI SSC) is a global forum that brings together payments industry stakeholders to develop and drive adoption of data security standards and resources for safe payments worldwide.
 * [OpenSCAP](https://www.open-scap.org/): an ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines.
+* [SAFECode](https://safecode.org/): a global industry forum where business leaders and technical experts come together to exchange insights and ideas on creating, improving, and promoting scalable and effective software security programs.
 
 ## Communities
 
@@ -107,13 +108,15 @@ Outdated resources are marked with the symbol: ⚠️
 * [Data Theorem](https://www.datatheorem.com/): modern application security.
 * [Contrast Security](https://www.contrastsecurity.com/): Ignite innovation velocity on the only unified security platform built to get secure code moving through the entire application development pipeline and continuously protect your apps across the complete software lifecycle.
 * [ChainGuard](https://www.chainguard.dev/): Fortified software delivery.
+* [Betterscan](https://www.betterscan.io/): A simple and powerful DevSecOps software to automate thousands of checks and eliminate human errors in Source Code and Cloud Infrastructure. Integrable into anything.
 * [Onapsis](https://onapsis.com/): business application cybersecurity.
+* [imperva](https://www.imperva.com/): detecting and protecting your apps and APIs anywhere.
+* [PortSwigger](https://portswigger.net/): web security company on a mission to enable the world to secure the web.
+* [Check Point](https://www.checkpoint.com/): Check Point is constantly innovating to deliver security solutions that raise the bar for businesses worldwide, as well as a track record of success to back it up.
+  * [Spectral](https://spectralops.io/) (part of Check Point)
+* [Controlplane](https://control-plane.io/): Cloud Native and Open Source Security.
 
 ## Lists
-
-### Dynamic Analysis
-
-* [Analysis Tools](https://github.com/analysis-tools-dev/dynamic-analysis) ([web](https://analysis-tools.dev/)): curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 
 ### "Awesome" Lists
 
@@ -146,6 +149,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme)
 * [Awesome CodeQL](https://github.com/felickz/awesome-codeql)
 * [Awesome YARA](https://github.com/InQuest/awesome-yara)
+* [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
 
 ### Checklists
 
@@ -184,6 +188,28 @@ Outdated resources are marked with the symbol: ⚠️
 * [CyberSecurityRSS ](https://github.com/zer0yu/CyberSecurityRSS)(English/Chinese): a collection of cybersecurity RSS.
 * [AI for security learning](https://github.com/404notf0und/AI-for-Security-Learning) (Chinese)
 
+## Security Development
+
+### Guidelines
+
+* [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
+* [CERT - Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards)
+* [OWASP Proactive Controls](https://owasp.org/www-project-proactive-controls/)
+* [Mozilla - WebAppSec / Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure\_Coding\_Guidelines)
+* [OWASP Secure Coding Practices-Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
+
+### Frameworks
+
+* [Building Security In Maturity Model (BSIMM)](https://www.synopsys.com/software-integrity/software-security-services/bsimm-maturity-model.html) by Synopsys
+* [Microsoft SDL practices](https://www.microsoft.com/en-us/securityengineering/sdl/practices) by Microsoft
+* [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/) from OWASP
+* [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf) by NIST
+
+### Others
+
+* [Nine Key Cloud Security Concentration & SWAT Checklist](https://www.sans.org/posters/nine-key-cloud-security-concentrations-swat-checklist/) (by SANS)
+* [DevOps Periodic Table](https://digital.ai/learn/devops-periodic-table/) (by digital.ai)
+
 ## Labs
 
 * [AWS Well-architected labs](https://github.com/awslabs/aws-well-architected-labs) ([web](http://aws.amazon.com/well-architected)): hands on labs and code to help you learn, measure, and build using architectural best practices.
@@ -199,6 +225,7 @@ Outdated resources are marked with the symbol: ⚠️
 ## Knowledge base
 
 * [MITRE ATTACK (ATT\&CK)](https://attack.mitre.org/): is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
+* [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/): is a repository of helpful information for developers, DevOps practitioners, and their organizations.
 
 ## Advisories databases
 
@@ -228,9 +255,14 @@ Outdated resources are marked with the symbol: ⚠️
 ## Vulnerable to learn
 
 * [VulnHub](https://www.vulnhub.com/): provides materials allowing anyone to gain practical hands-on experience with digital security, computer applications and network administration tasks.
+* [OWASP Vulnerable Web Applications Directory (VWAD)](https://owasp.org/www-project-vulnerable-web-applications-directory/): a comprehensive and well maintained registry of known vulnerable web and mobile applications currently available.
+* [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ([web](https://owasp.org/www-project-juice-shop/)): Probably the most modern and sophisticated insecure web application.
+* [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) ([web](https://wiki.owasp.org/index.php/Projects/OWASP\_Node\_js\_Goat\_Project)): provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+* Checkmarx [capital](https://github.com/Checkmarx/capital): a built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 * [Badssl.com](https://github.com/chromium/badssl.com) ([web](https://badssl.com/)): memorable site for testing clients against bad SSL configs.
 * [CI/CD GOAT](https://github.com/cider-security-research/cicd-goat): a deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 * Bridgecrew [TerraGoat](https://github.com/bridgecrewio/terragoat): "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
+* Bridgecrew [Cfngoat](https://github.com/bridgecrewio/cfngoat): Cfngoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments (Cloudformation).
 * [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ([web](https://madhuakula.com/kubernetes-goat)): a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground.
 * [KaiMonkey](https://github.com/tenable/KaiMonkey): vulnerable Terraform Infrastructure.
 * [Java Sec Code](https://github.com/JoyChou93/java-sec-code): a very powerful and friendly project for learning Java vulnerability code.

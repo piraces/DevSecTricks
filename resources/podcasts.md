@@ -21,6 +21,13 @@ Podcasts with the symbol ⚠️ are not publishing new episodes for now
   * [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hYnNvbHV0ZWFwcHNlYy5jb20vcnNzLnhtbA)
   * [Apple Podcasts](https://podcasts.apple.com/us/podcast/absolute-appsec/id1402701626)
 * [The OWASP Podcasts Series](https://soundcloud.com/owasp-podcast)
+* [Cloud Security Podcast](https://cloudsecuritypodcast.tv/):
+  * [Youtube](https://www.youtube.com/c/CloudSecurityPodcast)
+  * [Apple Podcasts](https://podcasts.apple.com/au/podcast/cloud-security-podcast/id1489678590)
+  * [Spotify](https://open.spotify.com/show/6LZgeh4GecRYPc0WrwMB4I)
+  * [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGZiOTkyOC9wb2RjYXN0L3Jzcw==)
+  * [Amazon](https://www.amazon.com/Cloud-Security-Podcast/dp/B08JJRHVQG)
+  * [Overcast](https://overcast.fm/itunes1489678590)
 * [BeerSecOps](https://beersecops.com/) by aqua (⚠️):
   * [Spotify](https://open.spotify.com/show/52ZbO0ZuUDrXqV8WyWgHMJ)
   * [Apple Podcasts](https://podcasts.apple.com/us/podcast/beersecops/id1483587726)
