@@ -115,6 +115,9 @@ Outdated resources are marked with the symbol: ⚠️
 * [Check Point](https://www.checkpoint.com/): Check Point is constantly innovating to deliver security solutions that raise the bar for businesses worldwide, as well as a track record of success to back it up.
   * [Spectral](https://spectralops.io/) (part of Check Point)
 * [Controlplane](https://control-plane.io/): Cloud Native and Open Source Security.
+* [CyberArk](https://www.cyberark.com/): offers the most complete and extensible Identity Security Platform, protecting identities and critical assets by enabling Zero Trust and enforcing least privilege.
+* [Puma Security](https://pumasecurity.io/): to help organizations build, develop, and support systems to deliver secure products and services.
+* [ReportURI](https://report-uri.com/): browser security technologies, enabling you to detect and mitigate attacks, fast.
 
 ## Lists
 
@@ -138,6 +141,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Awesome Infosec](https://github.com/onlurking/awesome-infosec)
 * [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 * [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling)
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 * [Awesome Security](https://github.com/sbilly/awesome-security#readme)
 * [Awesome Android Security](https://github.com/ashishb/android-security-awesome#readme)
@@ -150,6 +154,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Awesome CodeQL](https://github.com/felickz/awesome-codeql)
 * [Awesome YARA](https://github.com/InQuest/awesome-yara)
 * [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
+* [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis/)
 
 ### Checklists
 

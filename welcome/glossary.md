@@ -54,3 +54,4 @@ description: Find here some terms you may not heard of...
 * **CI:** short for "Continuous Integration".
 * **CD:** short for "Continuous Delivery".
 * **HW:** short for "Hardware".
+* **OCI:** short for "Oracle Cloud Infrastructure" or "Open Container Initiative".

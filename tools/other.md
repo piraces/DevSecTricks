@@ -18,6 +18,14 @@ description: Other types of tools you may be interested in...
 * ChainGuard [Wolfi](https://github.com/wolfi-dev/) ([web](https://wolfi.dev/)): Wolfi is a community Linux OS designed for the container and cloud-native era.
 * [ufw-docker](https://github.com/chaifeng/ufw-docker): fix the Docker and UFW security flaw without disabling iptables.
 
+## Threat Modelling
+
+* [IriusRisk](https://www.iriusrisk.com/): the industry leader in automated threat modeling and secure software design.
+* [Microsoft Threat Modelling Tool](https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling): makes threat modeling easier for all developers through a standard notation for visualizing system components, data flows, and security boundaries.
+* [SecurityCompass](https://www.securitycompass.com/sdelements/threat-modeling/): threat modeling that doesn’t scale leaves you vulnerable to attack.
+* [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/): a modeling tool used to create threat model diagrams as part of a secure development lifecycle.
+* [Threatspec](https://github.com/threatspec/threatspec) ([web](https://threatspec.org/)) (⚠️): an open source project that aims to close the gap between development and security by bringing the threat modelling process further into the development process.
+
 ## SBOM
 
 ### Containers

@@ -191,6 +191,11 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 
 * [Flawfinder](https://github.com/david-a-wheeler/flawfinder) ([web](http://dwheeler.com/flawfinder)): a simple program that scans C/C++ source code and reports potential security flaws.
 
+#### C# / .NET / dotnet
+
+* [Security Code Scan](https://github.com/security-code-scan/security-code-scan) ([web](https://security-code-scan.github.io/)): vulnerability Patterns Detector for C# and VB.NET.
+* Puma Security - [Puma Scan](https://github.com/pumasecurity/puma-scan) ([web](https://pumasecurity.io/product/)): a software security Visual Studio extension that provides real time, continuous source code analysis as development teams write code. Vulnerabilities are immediately displayed in the development environment as spell check and compiler warnings, preventing security bugs from entering your applications.
+
 #### JVM based
 
 * [OWASP Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs) ([web](https://find-sec-bugs.github.io/)): the SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects).
@@ -219,11 +224,14 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 #### Ruby
 
 * [Brakeman](https://github.com/presidentbeef/brakeman) ([web](https://brakemanscanner.org/)): a static analysis security vulnerability scanner for Ruby on Rails applications.
+* [Dawnscanner](https://github.com/thesp0nge/dawnscanner): a source code scanner designed to review your web applications for security issues.
 
 #### PHP
 
 * [Enlightn](https://github.com/enlightn/enlightn/) ([web](https://www.laravel-enlightn.com/)): scans your Laravel app code to provide you actionable recommendations on improving its performance, security & more (**offers pricing plans**).
 * [progpilot](https://github.com/designsecurity/progpilot): a static application security testing (SAST) for PHP.
+* [Phan](https://github.com/phan/phan): a static analyzer for PHP that prefers to minimize false-positives. Phan attempts to prove incorrectness rather than correctness.
+* [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) (⚠️): a set of PHP\_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.
 * [iniscan](https://github.com/psecio/iniscan) (⚠️): php.ini scanner for best security practices.
 
 #### Kubernetes (k8s)
@@ -236,6 +244,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 * Cilium [Hubble](https://github.com/cilium/hubble): Network, Service & Security Observability for Kubernetes using eBPF.
 * [Falco](https://github.com/falcosecurity/falco) ([web](https://falco.org/)): Cloud Native Runtime Security.
 * [Datree](https://github.com/datreeio/datree) ([web](https://datree.io/)): provides an E2E policy enforcement solution to run automatic checks for rule violations.
+* [Conftest](https://github.com/open-policy-agent/conftest) ([web](https://www.conftest.dev/)): write tests against structured configuration data using the Open Policy Agent Rego query language.
 
 #### Windows
 
@@ -280,6 +289,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
   * [Visual Studio Code extension](https://codeql.github.com/docs/codeql-for-visual-studio-code/)
   * [Documentation](https://codeql.github.com/docs/)
 * [YARA](https://github.com/virustotal/yara) ([web](https://virustotal.github.io/yara/)): YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples.
+* Microsoft [DevSkim](https://github.com/microsoft/DevSkim): a set of IDE plugins and rules that provide security "linting" capabilities.
 
 ### Multi-purpose
 

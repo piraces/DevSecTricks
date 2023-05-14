@@ -12,3 +12,10 @@ description: Ensuring you don't leak secrets and bad actors use them
 * Deepfence [SecretScanner](https://github.com/deepfence/SecretScanner): find secrets and passwords in container images and file systems.
 * TruffleSecurity [Driftwood](https://github.com/trufflesecurity/driftwood): a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user.
 * [stacs](https://github.com/stacscan/stacs): a YARA powered static credential scanner which suports binary file formats, analysis of nested archives, composable rulesets and ignore lists, and SARIF reporting.
+* [git-hound](https://github.com/tillson/git-hound): Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos.
+* AWS Labs [git-secrets](https://github.com/awslabs/git-secrets): Prevents you from committing secrets and credentials into git repositories
+* Yelp [detect-secrets](https://github.com/Yelp/detect-secrets): An enterprise friendly way of detecting and preventing secrets in code.
+* Auth0 [Repo-supervisor](https://github.com/auth0/repo-supervisor): a tool that helps you to detect secrets and passwords in your code.
+* [GitGuardian](https://www.gitguardian.com/v): secure your software development lifecycle with enterprise-grade secrets detection. Eliminate blind spots with our automated, battle-tested detection engine.
+* [Nightfall](https://www.nightfall.ai/): discover, classify, and remove secrets and keys to protect your organization and maintain compliance.
+* [Spectral](https://spectralops.io/): monitor, classify, and protect your code, assets, and infrastructure for exposed API keys, tokens, credentials, and high-risk security misconfigurations in a simple way, without noise.

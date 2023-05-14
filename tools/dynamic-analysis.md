@@ -116,12 +116,16 @@ More info:[ ](https://probely.com/pricing/)
 * [Acunetix](https://www.acunetix.com/plp/dast/) (by invicti): Acunetix is a web vulnerability solution for securing your websites, web applications, and APIs.
 * [Fortify DAST](https://www.microfocus.com/cyberres/application-security/fortify-dast) (by opentext): Integrated dynamic application security testing (DAST) tools with the breadth of coverage needed to support modern applications.
 * Qualys [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) ([web](https://www.ssllabs.com/projects/ssllabs-apis/)): A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
-* Imperva [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) (⚠️): customizable API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output.
+* Palo Alto Networks - [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud): Cloud-Native Application Protection Platform (CNAPP). Secures applications from code to cloud, enabling security and DevOps teams to effectively collaborate to accelerate secure cloud-native application development and deployment.
+* [Security Headers](https://securityheaders.com/) (web): quickly and easily assess the security of your HTTP response headers.
 * PortSwigger [Burp Suite](https://portswigger.net/burp):
   * [Community Edition](https://portswigger.net/burp/communitydownload)
   * [Professional Edition](https://portswigger.net/burp/pro)
   * [Enterprise Edition](https://portswigger.net/burp/enterprise)
 * [OWASP Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) ([web](https://www.zaproxy.org/)): one of the world’s most popular free security tools and is actively maintained by a dedicated international team of volunteers.
+* ClickJacker - [Clickjacking tool](https://clickjacker.io/): tests, quick PoCs, tutorials and docs about clickjacking.
+* [Mass HTTP](https://mass-http.web.app/): Visual Attack Surface & HTTP Probe on your fingertips
+* Imperva [Automatic API Attack Tool](https://github.com/imperva/automatic-api-attack-tool) (⚠️): customizable API attack tool takes an API specification as an input, generates and runs attacks that are based on it as an output.
 * [Gauntlt](https://github.com/gauntlt/gauntlt) ([web](http://gauntlt.org/)) (⚠️): a ruggedization framework that embodies the principle "be mean to your code".
 * [Netz](https://github.com/spectralops/netz) (⚠️): discover internet-wide misconfigurations. Verify your assets are not blindly open.
 
