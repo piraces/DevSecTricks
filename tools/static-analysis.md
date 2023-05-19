@@ -177,6 +177,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 * [bunkerweb](https://github.com/bunkerity/bunkerweb) ([web](https://docs.bunkerweb.io/)): a web server based on the notorious NGINX and focused on security.
 * [CSP Evaluator](https://csp-evaluator.withgoogle.com/): CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
   * [Chrome extension](https://chrome.google.com/webstore/detail/csp-evaluator/fjohamlofnakbnbfjkohkbdigoodcejf)
+* [CSP Validator](https://cspvalidator.org/): validate CSP in headers and meta elements & validate and merge using intersect or union strategy.
 * [Csper](https://csper.io/): deploying and monitoring Content Security Policy a breeze. With automated tools and actionable insights, you'll be protecting your users in no time.
 * [Vulmap](https://github.com/zhzyker/vulmap/blob/main/readme.us-en.md) (English/Chinese): Web vulnerability scanning and verification tools.
 * TruffleSecurity [XSSHunter](https://github.com/trufflesecurity/xsshunter) ([web](https://xsshunter.trufflesecurity.com/https://xsshunter.trufflesecurity.com/)): the fastest way to set up XSS Hunter to test and find blind cross-site scripting vulnerabilities.
