@@ -51,10 +51,19 @@ Outdated resources are marked with the symbol: ⚠️
 * [MITRE](https://www.mitre.org/): applying systems thinking to national challenges in defense, cybersecurity, healthcare, homeland security, & transportation.
 * [Palo Alto Networks](https://www.paloaltonetworks.com/): several security solutions.
 * [Rapid7](https://www.rapid7.com/): A powerful, practitioner-first approach for comprehensive, operationalized risk & threat response and results.
+* [Cloudflare](https://www.cloudflare.com/): a global network designed to make everything you connect to the Internet secure, private, fast, and reliable. Secure your websites, APIs, and Internet applications. Protect corporate networks, employees, and devices. Write and deploy code that runs on the network edge.
 * [NCC Group](https://www.nccgroup.com/): several solutions.
 * [Aqua](https://www.aquasec.com/): several solutions and tools (some open source).&#x20;
 * [Anchore](https://anchore.com/): Software Supply Chain Security.
 * [Synopsis](https://www.synopsys.com/): software security - helps you protect your bottom line by building trust in your software.
+* [Tarlogic](https://www.tarlogic.com/): one of the leading European providers of cybersecurity services. A technical team of top-level specialists and state-of-the-art solutions to provide auditing, pentesting, vulnerability management, and incident response services.
+* [cipher](https://cipher.com/): a global cybersecurity company that delivers a wide range of services: Managed Detection and Response (MDR), Managed Security Services (MSS), Cyber Intelligence Services (CIS), Red Team Services (RTS), Governance, Risk and Compliance (GRC) and Cybersecurity Technology Integration (CTI).
+* [Yogosha](https://yogosha.com/): One platform to secure them all.
+* [Byron Labs](https://byronlabs.io/): team of experts use cutting-edge technology to analyze darknets and provide Threat Intelligence solutions to keep your business safe from cyber attacks.
+* [Wise security global](https://wsg127.com/): To protect the activity of our customers by generating reliable and secure cyber environments that allow them to maintain and improve the trust of their stakeholders.
+* [Outpost24](https://outpost24.com/): Outpost24's intelligence-led cyber risk management solution makes it easy to identify security gaps in your attack surface and prioritize vulnerabilities that matter.
+* [S21Sec](https://www.s21sec.com/): a leading pure player cybersecurity provider, we promote the transformation of the business of organizations through cybersecurity risk management to protect their people and assets.
+* [ZeroLynx](https://www.zerolynx.com/): a European business group specialised in Cybersecurity, Intelligence and Property Security. Our main mission is to assist you on the road to security, always striving for excellence.
 * [Checkmarkx](https://checkmarx.com/): Shift Everywhere With the Leading Cloud-Native AppSec Platform.
 * [Qualys](https://www.qualys.com/): provider of information security and compliance cloud solutions.
 * [GuardRails](https://www.guardrails.io/): GuardRails eliminates vulnerabilities at source, educates developers in real-time, minimizes the security bottleneck, and helps organizations go faster to market.
@@ -84,6 +93,11 @@ Outdated resources are marked with the symbol: ⚠️
 * [Faraday](https://faradaysec.com/): open source Vulnerability Management Platform.
 * [StrangeBee](https://www.strangebee.com/): provides cutting edge incident response automation to hundreds of SOC, CERT & CSIRT teams.
 * [Cisco Duo](https://duo.com/): Easy, Flexible Cybersecurity Solutions for Everyone.
+* [Kaspersky](https://www.kaspersky.com): cybersecurity leader.
+* [Fortinet](https://www.fortinet.com/): offers the most comprehensive solutions to help industries accelerate security, maximize productivity, preserve user experience, and lower total cost of ownership.
+* [Akamai](https://www.akamai.com/) ([Security Solutions](https://www.akamai.com/solutions/security)): their solutions leverage our global security platform to protect your unique environment and all of its critical applications, so you can confidently innovate and expand your business, without creating new vulnerabilities.
+* [Radware](https://www.radware.com/): DDoS protection, Application protection, Public Cloud protection and Application delivery.
+* [NetScout](https://www.netscout.com/): unique approach and deep technical expertise allow us to help our customers solve today’s biggest challenges for the most complex networks in the world.
 * [CAST](https://www.castsoftware.com/): software intelligence automated - actionable insights into your software inner workings.
 * [Greenbone](https://www.greenbone.net/en/): provider of open source vulnerability management.
 * [Fluid attacks](https://fluidattacks.com/): multiple techniques in a single solution to secure your technology throughout the software development lifecycle.
@@ -125,6 +139,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [ReportURI](https://report-uri.com/): browser security technologies, enabling you to detect and mitigate attacks, fast.
 * [INE](https://ine.com/): challenge your team, regardless of level, to a training platform that puts real world infrastructure first. Learn from expert instructors and prove your knowledge in Networking, Cyber Security, Cloud and Data Science.
 * [debricked](https://debricked.com/): take full control of security, compliance and health with a toolkit that will revolutionize the way you use open source.
+* [Halborn](https://www.halborn.com/): Elite Blockchain Security Solutions.
 
 ## Lists
 

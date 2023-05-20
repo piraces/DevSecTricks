@@ -23,7 +23,7 @@ Then have a look to some of this visualization tools:
 * [CheckPoint ](https://www.checkpoint.com/)offers [ThreatMap](https://threatmap.checkpoint.com/) where you can see attacks in real time, as well as attacks on the day of visit (tends to grow to millions a day).
 * [Kaspersky](https://www.kaspersky.com/) offers [Cybermap](https://cybermap.kaspersky.com/), a realtime CyberTheat map.
 * [Radware](https://radware.com) offers [another live threat map](https://livethreatmap.radware.com/) worth to check out.
-* [NetScoute](https://www.netscout.com/) offers [Horizon](https://horizon.netscout.com/), its own cyber threat real-time map.
+* [NetScout](https://www.netscout.com/) offers [Horizon](https://horizon.netscout.com/), its own cyber threat real-time map.
 * [Imperva](https://www.imperva.com/) also offers [its own cyber threat attack map](https://www.imperva.com/cyber-threat-attack-map/).
 * And lots of other tools:
   * [Digital Attack Map (DDoS attacks)](https://www.digitalattackmap.com/)
@@ -50,20 +50,20 @@ A very good starting point to ensure whatever you are developing, you meet with 
 
 This checklist covers the following points:
 
-* Input Validation
-* Output Encoding
-* Authentication & Password Management
-* Session Management
-* Access Control
-* Cryptographic Practices
-* Error Handling & Logging
-* Data Protection
-* Communication Security
-* System Configuration
-* Database Security
-* File Management
-* Memory Management
-* **General coding practices (this last point is very important)**
+* [Input Validation](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#input-validation)
+* [Output Encoding](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#output-encoding)
+* [Authentication & Password Management](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#authentication-and-password-management)
+* [Session Management](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#session-management)
+* [Access Control](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#access-control)
+* [Cryptographic Practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#cryptographic-practices)
+* [Error Handling & Logging](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#error-handling-and-logging)
+* [Data Protection](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#data-protection)
+* [Communication Security](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#communication-security)
+* [System Configuration](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#system-configuration)
+* [Database Security](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#database-security)
+* [File Management](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#file-management)
+* [Memory Management](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#memory-management)
+* [**General coding practices**](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist#general-coding-practices) **(this last point is very important)**
 
 From the last bullet point, make sure you are following this coding practices:
 
