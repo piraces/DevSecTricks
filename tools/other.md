@@ -28,6 +28,10 @@ description: Other types of tools you may be interested in...
 
 ## SBOM
 
+### Packages
+
+* [Meta package manager (mpm)](https://github.com/kdeldycke/meta-package-manager) ([web](https://kdeldycke.github.io/meta-package-manager/)): a wrapper around all package managers with lots of features.
+
 ### Containers
 
 * Anchore [syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystem.
@@ -37,8 +41,20 @@ description: Other types of tools you may be interested in...
 * [EMBA ](https://github.com/e-m-b-a/emba)([web](https://www.securefirmware.de/)): the firmware security analyzer.
 * [chipsec](https://github.com/chipsec/chipsec) ([web](https://chipsec.github.io/)): platform Security Assessment Framework.
 
+## Threat Hunting
+
+* [Recon](https://github.com/rusty-ferris-club/recon): Find, locate, and query files for ops and security experts.
+* INE [ThreatSeeker](https://github.com/ine-labs/ThreatSeeker) (Windows): a windows log analysis framework that allows a threat hunter to find the common threats on the machine quickly. This tool also helps a threat hunter to detect APT movements.
+
 ## Malware detection
 
+* [VirusTotal](https://www.virustotal.com/): analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
+  * [API Scripts & Clients](https://support.virustotal.com/hc/en-us/articles/360006819798-API-Scripts-and-client-libraries)
+  * **Apps:**
+    * [Desktop](https://support.virustotal.com/hc/en-us/articles/115002179065-Desktop-apps)
+    * [Browser Extensions](https://support.virustotal.com/hc/en-us/articles/115002700745-Browser-Extensions)
+    * [Mobile Apps](https://support.virustotal.com/hc/en-us/articles/115002146549-Mobile-Apps)
+  * [Premium services](https://support.virustotal.com/hc/en-us/articles/115003886005-VirusTotal-Premium-Services)
 * [BinaryAlert ](https://github.com/airbnb/binaryalert)(⚠️): serverless, Real-time & Retroactive Malware Detection.
 
 ## Pentesting / Forensics 😈

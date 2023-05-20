@@ -4,6 +4,14 @@ description: Secure Infrastructure as Code (IaC)
 
 # Infrastructure as Code (IaC)
 
+## About
+
+Infrastructure as Code (IaC) is the practice of managing and provisioning infrastructure with machine-readable definition files, rather than physical hardware configuration or interactive configuration tools. It's a key practice in DevOps and is used in conjunction with cloud computing.
+
+When it comes to security, IaC can both help and pose challenges.
+
+IaC is a powerful tool for managing infrastructure, and it can significantly enhance security when used properly. However, it requires careful management to avoid introducing new security risks.
+
 ## Tools
 
 * Aqua [tfsec](https://github.com/aquasecurity/tfsec) ([web](https://aquasecurity.github.io/tfsec/)): a static analysis security scanner for your Terraform code.

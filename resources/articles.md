@@ -9,6 +9,7 @@ Here are some articles worth to read.
 ### DevSecOps
 
 * [DevSecOps: Secure code quickly and easily | Red Hat Developer](https://developers.redhat.com/articles/2022/01/27/devsecops-why-you-should-care-and-how-get-started)
+* [DevSecOps: Making Security Central To Your DevOps Pipeline](https://spacelift.io/blog/what-is-devsecops)
 * [Challenges and solutions when adopting DevSecOps: A … - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0950584921001543)
 * [Best practices for successful DevSecOps | Red Hat Developer](https://developers.redhat.com/articles/2022/06/15/best-practices-successful-devsecops)
 * [How DevSecOps brings security into the development process](https://developers.redhat.com/articles/2021/12/01/how-devsecops-brings-security-development-process)

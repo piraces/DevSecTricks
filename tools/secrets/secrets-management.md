@@ -4,6 +4,10 @@ description: Manage your secrets the way is meant to be
 
 # Secrets Management
 
+## About
+
+Software secrets management involves handling and protecting sensitive information, such as API keys, passwords, tokens, and encryption keys, that are used within a software system. These "secrets" are critical for the operation of many applications, providing access to databases, third-party services, cloud infrastructures, and other important resources. If these secrets are compromised, it could lead to data breaches, unauthorized access, or other security incidents.
+
 ## Tools / Solutions / Products
 
 * [Azure Key Vault](https://azure.microsoft.com/en-us/products/key-vault/): safeguard cryptographic keys and other secrets used by cloud apps and services.
@@ -21,6 +25,7 @@ description: Manage your secrets the way is meant to be
 * [GoPass](https://github.com/gopasspw/gopass) ([web](https://www.gopass.pw/)): the slightly more awesome standard UNIX password manager for teams.
 * [Spectral Keyscope](https://github.com/SpectralOps/keyscope): a key and secret workflow (validation, invalidation, etc.) tool built in Rust.
 * [Pinterest Knox](https://github.com/pinterest/knox): a service for storing and rotation of secrets, keys, and passwords used by other services.
+* [Git-tresor](https://github.com/thebitrebels/git-tresor): Encrypt and decrypt files to store them inside a git repository. git-tresor uses AES-256 encryption. Every file or directory has it's own password. This enables you to commit encrypted files either in a separate git repository or inside the same repository where your secret files are needed (f.e. Android-Keystores or Signing-Certificates for Apple).
 * [Ansible Vault](https://docs.ansible.com/ansible/latest/cli/ansible-vault.html): encryption/decryption utility for Ansible data files.
 * [Chef Vault](https://github.com/chef/chef-vault): securely manage passwords, certs, and other secrets in Chef.
 * [CredStash](https://github.com/fugue/credstash) (⚠️): a very simple, easy to use credential management and distribution system that uses AWS Key Management Service (KMS) for key wrapping and master-key storage, and DynamoDB for credential storage and sharing.

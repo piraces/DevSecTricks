@@ -1,8 +1,8 @@
 ---
 description: >-
-  "DevSec" is a derived name from "DevSecOps" and "SecDevOps", a idea to
-  aggregate all things related to a secure development & operations (always from
-  the DEV perspective).
+  "DevSec", "DevSecOps", "SecDevOps"...  lots of buzzwords, but here the idea is
+  to aggregate all things related to a secure development & operations (always
+  from the DEV perspective).
 ---
 
 # DevSec
@@ -22,6 +22,8 @@ You may heard about **DevSecOps**, the **shifting left** concept and **GitOps**.
 With **DevOps**, we shifted to make developers more accountable for operational topics and issues (joining the responsability of development and operations). Here the same mindset is meant to be done with Security in DevSecOps.
 
 In lots of products or projects we are already shifting left a lot of controls earlier in the development lifecycle, where the development teams are (such as testing)... So why not including security testing to an earlier step? We could make fewer mistakes, and we can move more quickly (quickly addressing newly discovered vulnerabilities and fixing them).
+
+The overall aim is to create a culture where everyone is responsible for security, reducing the risk of security issues and allowing teams to deliver secure, high-quality software more quickly.
 
 **This is a process change, it's not about a single/specific tool or controls. It's about making all of security more developer-centric.**
 

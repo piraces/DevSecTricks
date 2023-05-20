@@ -57,6 +57,26 @@ More info: [https://snyk.io/plans/](https://snyk.io/plans/)
 
 **Official page:** [https://snyk.io/](https://snyk.io/)
 
+### Veracode
+
+Veracode offers intelligent software security to continuously find and fix flaws at every stage of the modern software development lifecycle.
+
+#### Pricing
+
+* Demo must be requested...
+
+More info: [https://www.veracode.com/contact-us](https://www.veracode.com/contact-us)
+
+#### Solutions/Products
+
+* [**Veracode Static Analysis (SAST)**](https://www.veracode.com/products/binary-static-analysis-sast)**:** Secure Code From the Start.
+* [**Veracode Software Composition Analysis (SCA)**](https://www.veracode.com/products/software-composition-analysis)**:** Secure Your Software Supply Chain.
+* [**Veracode Container Security**](https://www.veracode.com/products/container-security)**:** Integrate container security seamlessly into your existing pipeline.
+* [**Manual Penetration Testing & Penetration Testing as a Service**](https://www.veracode.com/products/penetration-testing)**:** Catch Elusive Vulnerabilities, Meet Compliance, and Deliver Secure Applications.
+* Other solutions/products & services can be found in the official page.
+
+**Official page:** [https://www.veracode.com/](https://www.veracode.com/)
+
 ### Sonar (SonarSource)
 
 Automatic code review, which includes security management. The tool is capable of identifying multiple security hotspots, make security-related rules and others.

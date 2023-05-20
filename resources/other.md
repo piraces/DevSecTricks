@@ -20,6 +20,11 @@ Outdated resources are marked with the symbol: ⚠️
   * [GitHub](https://github.com/cisagov)
 * [NIST (National Institute of Standards and Technology)](https://www.nist.gov/)
   * [GitHub](https://github.com/usnistgov)
+* [CIS (Center for Internet Security)](https://www.cisecurity.org/)
+  * [GitHub](https://github.com/CISecurity)
+* [INCIBE (National Institute of Cybersecurity (Spain))](https://www.incibe.es/en/incibe)
+  * [INCIBE-CERT](https://www.incibe.es/en/incibe-cert): the security incident response center of reference for citizens and private law entities in Spain operated by the National Institute of Cybersecurity (INCIBE).
+    * [GitHub](https://github.com/INCIBE-CERT)
 
 ## Organizations / Foundations
 
@@ -118,6 +123,8 @@ Outdated resources are marked with the symbol: ⚠️
 * [CyberArk](https://www.cyberark.com/): offers the most complete and extensible Identity Security Platform, protecting identities and critical assets by enabling Zero Trust and enforcing least privilege.
 * [Puma Security](https://pumasecurity.io/): to help organizations build, develop, and support systems to deliver secure products and services.
 * [ReportURI](https://report-uri.com/): browser security technologies, enabling you to detect and mitigate attacks, fast.
+* [INE](https://ine.com/): challenge your team, regardless of level, to a training platform that puts real world infrastructure first. Learn from expert instructors and prove your knowledge in Networking, Cyber Security, Cloud and Data Science.
+* [debricked](https://debricked.com/): take full control of security, compliance and health with a toolkit that will revolutionize the way you use open source.
 
 ## Lists
 
@@ -192,6 +199,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [HolyTips](https://github.com/HolyBugx/HolyTips): a Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
 * [CyberSecurityRSS ](https://github.com/zer0yu/CyberSecurityRSS)(English/Chinese): a collection of cybersecurity RSS.
 * [AI for security learning](https://github.com/404notf0und/AI-for-Security-Learning) (Chinese)
+* [Veracode Resources](https://www.veracode.com/resources): lots of resources in several formats from Veracode.
 
 ## Security Development
 
@@ -235,12 +243,16 @@ Outdated resources are marked with the symbol: ⚠️
 ## Advisories databases
 
 * [OSV](https://osv.dev/): a distributed vulnerability database for Open Source.
-  * [OSV.dev mantained converters](https://github.com/google/osv.dev#current-data-sources):&#x20;
+  * [OSV.dev mantained converters](https://github.com/google/osv.dev#current-data-sources)
 * [GitHub Advisory Database](https://github.com/github/advisory-database) ([web](https://github.com/advisories)): security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
   * [Security advisories reported on GitHub](https://docs.github.com/en/code-security/security-advisories/repository-security-advisories/about-repository-security-advisories)
 * [National Vulnerability Database](https://nvd.nist.gov/)
 * [Global Security Database](https://github.com/cloudsecurityalliance/gsd-databasehttps://github.com/cloudsecurityalliance/gsd-database) ([web](https://gsd.id/))
+* [debricked Vulnerability Database](https://debricked.com/vulnerability-database)
+* [Socket.dev package search](https://socket.dev/)
+* [Open Source Insights - devs.dev](https://deps.dev/): Open Source Insights is a service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages.
 * [npm Security Advisories Database](https://github.com/advisories?query=type%3Areviewed+ecosystem%3Anpm)
+* [Veracode Vulnerability Database](https://sca.analysiscenter.veracode.com/vulnerability-database/search)
 * [FriendsOfPHP Database](https://github.com/FriendsOfPHP/security-advisories)
 * [Go Vulnerability Database](https://vuln.go.dev/)
 * [Python Packaging Advisory Database](https://github.com/pypa/advisory-database) (PyPI)
@@ -263,9 +275,11 @@ Outdated resources are marked with the symbol: ⚠️
 * [OWASP Vulnerable Web Applications Directory (VWAD)](https://owasp.org/www-project-vulnerable-web-applications-directory/): a comprehensive and well maintained registry of known vulnerable web and mobile applications currently available.
 * [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) ([web](https://owasp.org/www-project-juice-shop/)): Probably the most modern and sophisticated insecure web application.
 * [OWASP NodeGoat](https://github.com/OWASP/NodeGoat) ([web](https://wiki.owasp.org/index.php/Projects/OWASP\_Node\_js\_Goat\_Project)): provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+* [OWASP DVSA](https://github.com/OWASP/DVSA) ([web](https://owasp.org/www-project-dvsa/)): Damn Vulnerable Serverless Application (DVSA) is a deliberately vulnerable application aiming to be an aid for security professionals to test their skills and tools in a legal environment, help developers better understand the processes of securing serverless applications and to aid both students & teachers to learn about serverless application security in a controlled class room environment.
 * Checkmarx [capital](https://github.com/Checkmarx/capital): a built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 * [Badssl.com](https://github.com/chromium/badssl.com) ([web](https://badssl.com/)): memorable site for testing clients against bad SSL configs.
 * [CI/CD GOAT](https://github.com/cider-security-research/cicd-goat): a deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
+* INE [Azure Goat](https://github.com/ine-labs/AzureGoat): a Damn Vulnerable Azure Infrastructure.
 * Bridgecrew [TerraGoat](https://github.com/bridgecrewio/terragoat): "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.
 * Bridgecrew [Cfngoat](https://github.com/bridgecrewio/cfngoat): Cfngoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments (Cloudformation).
 * [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) ([web](https://madhuakula.com/kubernetes-goat)): a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground.

@@ -4,6 +4,10 @@ description: Ensuring you don't leak secrets and bad actors use them
 
 # Secrets Scanning
 
+## About
+
+Source control is not a secure place to store secrets such as credentials, API keys or tokens, even if the repo is private. Secrets scanning tools can scan and monitor git repositories and pull-requests for secrets, and can be used to prevent secrets from being committed, or to find and remove secrets that have already been committed to source control. \[1]
+
 ## Tools / Solutions / Products
 
 * TruffleSecurity [Trufflehog](https://github.com/trufflesecurity/trufflehog) ([web](https://trufflesecurity.com/trufflehog/)): find and verify credentials.
@@ -19,3 +23,7 @@ description: Ensuring you don't leak secrets and bad actors use them
 * [GitGuardian](https://www.gitguardian.com/v): secure your software development lifecycle with enterprise-grade secrets detection. Eliminate blind spots with our automated, battle-tested detection engine.
 * [Nightfall](https://www.nightfall.ai/): discover, classify, and remove secrets and keys to protect your organization and maintain compliance.
 * [Spectral](https://spectralops.io/): monitor, classify, and protect your code, assets, and infrastructure for exposed API keys, tokens, credentials, and high-risk security misconfigurations in a simple way, without noise.
+
+## Sources
+
+* \[1]: [https://github.com/TaptuIT/awesome-devsecops#secrets-scanning](https://github.com/TaptuIT/awesome-devsecops#secrets-scanning)
