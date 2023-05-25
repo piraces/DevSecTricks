@@ -55,3 +55,9 @@ description: Find here some terms you may not heard of...
 * **CD:** short for "Continuous Delivery".
 * **HW:** short for "Hardware".
 * **OCI:** short for "Oracle Cloud Infrastructure" or "Open Container Initiative".
+* **MDR:** short for "Managed Detection and Response".
+* **MSS:** short for "Managed Security Services".
+* **CIS:** short for "Cyber Intelligence Services" (also the abbreviation for the "Center of Internet Security").
+* **RTS:** short for "Red Team Services".
+* **GRC:** short for "Governance, Risk and Compliance".
+* **CTI:** short for "Cybersecurity Technology Integration".

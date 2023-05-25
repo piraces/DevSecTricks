@@ -318,16 +318,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 
 ### Containers
 
-* [Docker Bench for Security](https://github.com/docker/docker-bench-security): a script that checks for dozens of common best-practices around deploying Docker containers in production.
-* Anchore [grype](https://github.com/anchore/grype): vulnerability scanner for container images and filesystems.
-* [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint): a smarter Dockerfile linter that helps you build best practice Docker images.
-* [Dockle ](https://github.com/goodwithtech/dockle)([web](https://containers.goodwith.tech/)): container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start.
-* Quay [Clair](https://github.com/quay/clair) ([web](https://quay.io/)): is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker).
-* [Dagda](https://github.com/eliasgranderubio/dagda/) (⚠️): a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities.
-
-{% hint style="info" %}
-Checkout Snyk Container, and Trivy from Aqua Security too
-{% endhint %}
+See [containers.md](../generic-development/containers.md "mention").
 
 ### Cloud
 

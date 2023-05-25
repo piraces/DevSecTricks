@@ -42,7 +42,7 @@ Great. Let's improve this situation...
 
 **A good starting point is to look at** [**OWASP Top Ten**](https://owasp.org/www-project-top-ten/)**, these are the main application security risks that are most important nowadays. The goal is to minimise these risks.**
 
-## OWASP Secure Coding Practices Checklist
+## Secure Coding Practices
 
 A very good starting point to ensure whatever you are developing, you meet with [this OWASP checklist](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/02-checklist/05-checklist).
 

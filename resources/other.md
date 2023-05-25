@@ -139,6 +139,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [ReportURI](https://report-uri.com/): browser security technologies, enabling you to detect and mitigate attacks, fast.
 * [INE](https://ine.com/): challenge your team, regardless of level, to a training platform that puts real world infrastructure first. Learn from expert instructors and prove your knowledge in Networking, Cyber Security, Cloud and Data Science.
 * [debricked](https://debricked.com/): take full control of security, compliance and health with a toolkit that will revolutionize the way you use open source.
+* [PurpleBox](https://www.prplbx.com/): Empower your team with cybersecurity solutions that work in harmony and help you detect, protect, respond and recover from cyberattacks (Vulnerability Management, Penetration testing, Risk and Compilance, Endpoint security, Web App firewall, Cloud Security, etc.).
 * [Halborn](https://www.halborn.com/): Elite Blockchain Security Solutions.
 
 ## Lists
