@@ -36,11 +36,12 @@
 
 * [Security Basics](generic-development/security-basics.md)
 * [Containers](generic-development/containers.md)
-* [Git & others](generic-development/git-and-others.md)
+* [Git & other VCS](generic-development/git-and-others.md)
 * [Cryptography](generic-development/cryptography.md)
 
 ## ☁ Web Development
 
+* [Generic](web-development/generic.md)
 * [Frontend](web-development/frontend.md)
 * [Backend](web-development/backend/README.md)
   * [APIs](web-development/backend/apis.md)
@@ -84,6 +85,4 @@
 
 ## 😈 On the other side
 
-* [Red team](on-the-other-side/red-team/README.md)
-  * [Resources](on-the-other-side/red-team/resources.md)
-  * [Tools](on-the-other-side/red-team/tools.md)
+* [Red team](on-the-other-side/red-team.md)
