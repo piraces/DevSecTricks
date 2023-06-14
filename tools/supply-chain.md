@@ -29,8 +29,8 @@ Software supply chain security involves securing all aspects of the process of d
 
 ## Projects
 
-* **Sigstore (**[**web**](https://www.sigstore.dev/)**):** a set of free to use and open source tools, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
-* **Open Source Insights - deps.dev (**[**web**](https://deps.dev/)**):** Open Source Insights is a service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages.
+* **Sigstore (**[**web**](https://www.sigstore.dev/) **):** a set of free to use and open source tools, handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
+* **Open Source Insights - deps.dev (**[**web**](https://deps.dev/) **):** Open Source Insights is a service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages.
 
 ## Other tools
 

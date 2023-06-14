@@ -21,5 +21,5 @@ IaC is a powerful tool for managing infrastructure, and it can significantly enh
 * [Terraform Compliance](https://github.com/terraform-compliance/cli) ([web](https://terraform-compliance.com/)): is a lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.
 * Checkmarx [kics](https://github.com/Checkmarx/kics) ([web](https://kics.io/)): keeping infrastructure as code secure is an open source solution for static code analysis of Infrastructure as Code.
 * Stelligent [Cfn Nag](https://github.com/stelligent/cfn\_nag): looks for patterns in CloudFormation templates that may indicate insecure infrastructure.
-* [ggshield ](https://github.com/GitGuardian/ggshield)([GitGuardian](https://www.gitguardian.com/)): find and fix hardcoded secrets and infrastructure-as-code misconfigurations.
+* [ggshield](https://github.com/GitGuardian/ggshield) ([GitGuardian](https://www.gitguardian.com/)): find and fix hardcoded secrets and infrastructure-as-code misconfigurations.
 * [Ansible lint](https://github.com/ansible/ansible-lint) ([web](https://ansible-lint.readthedocs.io/)): ansible-lint checks playbooks for practices and behavior that could potentially be improved.

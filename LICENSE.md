@@ -3,7 +3,7 @@
 License: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)<br>
 Human Readable License: https://creativecommons.org/licenses/by-nc/4.0/<br>
 Complete Legal Terms: https://creativecommons.org/licenses/by-nc/4.0/legalcode<br>
-Formatting: https://github.com/jmatsushita/Creative-Commons-4.0-Markdown/blob/master/licenses/by-nc.markdown<br>
+Formatting: https://github.com/jmatsushita/Creative-Commons-4.0-Markdown/blob/master/licenses/by-nc.markdown <br>
 
 # creative commons
 

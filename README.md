@@ -36,7 +36,7 @@ The overall aim is to create a culture where everyone is responsible for securit
 
 ### License
 
-**Copyright (c) 2023 Raúl Piracés Alastuey.** **Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**DevSecTricks**](https://github.com/piraces/DevSecTricks) **by Raúl Piracés is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
+**Copyright (c) 2023 Raúl Piracés Alastuey.** **Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**DevSecTricks**](https://github.com/piraces/DevSecTricks) **by Raúl Piracés is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/) **.**\
 **If you want to use it with commercial purposes, contact me.**
 
 ### Disclaimer

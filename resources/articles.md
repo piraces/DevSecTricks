@@ -27,4 +27,4 @@ Here are some articles worth to read.
 ### Sources
 
 * [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling. (github.com)](https://github.com/TaptuIT/awesome-devsecops#wikis)
-* [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
+* [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)

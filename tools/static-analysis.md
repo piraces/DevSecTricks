@@ -19,7 +19,7 @@ GitHub includes several features/products/solutions regarding static analysis of
 * Free plan for OSS projects or public projects (on GitHub.com).
 * Other paid plans for teams and enterprise (extra security features under an Advanced Security license).
 
-More info: [https://docs.github.com/en/billing](https://docs.github.com/en/billing)
+More info: https://docs.github.com/en/billing
 
 #### Solutions/Products
 
@@ -34,7 +34,7 @@ More info: [https://docs.github.com/en/billing](https://docs.github.com/en/billi
 * **Code scanning:** using code scanning to identify and fix potential security vulnerabilities and other errors in your code [\[source\]](https://docs.github.com/en/code-security/code-scanning).
 * **Secret scanning:** ensuring that tokens, private keys, and other code secrets are not exposed in your repository [\[source\]](https://docs.github.com/en/code-security/secret-scanning).
 
-**Official page:** [https://snyk.io/](https://snyk.io/)
+**Official page:** https://snyk.io/
 
 ### Snyk
 
@@ -45,7 +45,7 @@ Snyk is a well-known "developer security company" that provides lots of solution
 * Free **limited** plan
 * Other paid plans for teams and enterprise
 
-More info: [https://snyk.io/plans/](https://snyk.io/plans/)
+More info: https://snyk.io/plans/
 
 #### Solutions/Products
 
@@ -55,7 +55,7 @@ More info: [https://snyk.io/plans/](https://snyk.io/plans/)
 * **Snyk Infrastructure as Code:** secure IaC configurations, rules, custom policies, surfacing of unmanaged and drifted resources.
 * **Snyk Cloud:** secure operations in the cloud at every stage of the lifecycle.
 
-**Official page:** [https://snyk.io/](https://snyk.io/)
+**Official page:** https://snyk.io/
 
 ### Veracode
 
@@ -65,17 +65,17 @@ Veracode offers intelligent software security to continuously find and fix flaws
 
 * Demo must be requested...
 
-More info: [https://www.veracode.com/contact-us](https://www.veracode.com/contact-us)
+More info: https://www.veracode.com/contact-us
 
 #### Solutions/Products
 
-* [**Veracode Static Analysis (SAST)**](https://www.veracode.com/products/binary-static-analysis-sast)**:** Secure Code From the Start.
-* [**Veracode Software Composition Analysis (SCA)**](https://www.veracode.com/products/software-composition-analysis)**:** Secure Your Software Supply Chain.
-* [**Veracode Container Security**](https://www.veracode.com/products/container-security)**:** Integrate container security seamlessly into your existing pipeline.
-* [**Manual Penetration Testing & Penetration Testing as a Service**](https://www.veracode.com/products/penetration-testing)**:** Catch Elusive Vulnerabilities, Meet Compliance, and Deliver Secure Applications.
+* [**Veracode Static Analysis (SAST)**](https://www.veracode.com/products/binary-static-analysis-sast) **:** Secure Code From the Start.
+* [**Veracode Software Composition Analysis (SCA)**](https://www.veracode.com/products/software-composition-analysis) **:** Secure Your Software Supply Chain.
+* [**Veracode Container Security**](https://www.veracode.com/products/container-security) **:** Integrate container security seamlessly into your existing pipeline.
+* [**Manual Penetration Testing & Penetration Testing as a Service**](https://www.veracode.com/products/penetration-testing) **:** Catch Elusive Vulnerabilities, Meet Compliance, and Deliver Secure Applications.
 * Other solutions/products & services can be found in the official page.
 
-**Official page:** [https://www.veracode.com/](https://www.veracode.com/)
+**Official page:** https://www.veracode.com/
 
 ### Sonar (SonarSource)
 
@@ -86,7 +86,7 @@ Automatic code review, which includes security management. The tool is capable o
 * Free plan for coding ("Free sonar"), analyze  your code in real time with IDE integration
 * Other paid plans for developer, teams and enterprise (self-managed and as a service)
 
-More info: [https://www.sonarsource.com/plans-and-pricing/](https://www.sonarsource.com/plans-and-pricing/#sonarqube)
+More info: https://www.sonarsource.com/plans-and-pricing/#sonarqube
 
 #### Solutions/Products
 
@@ -98,7 +98,7 @@ More info: [https://www.sonarsource.com/plans-and-pricing/](https://www.sonarsou
 You can deploy a self-hosted sonarqube instance in your own machine with its [official container image](https://hub.docker.com/\_/sonarqube/) in minutes and scan your code
 {% endhint %}
 
-**Official page:** [https://www.sonarsource.com/](https://www.sonarsource.com/)
+**Official page:** https://www.sonarsource.com/
 
 ### Trivy
 
@@ -131,7 +131,7 @@ Open source security scanner. Finds vulnerabilities & IaC misconfigurations, SBO
 Getting started is easy with this one! [See "Quick Start" documentation](https://aquasecurity.github.io/trivy/) for getting the software and running it.
 {% endhint %}
 
-**Official page:** [https://trivy.dev/](https://trivy.dev/)
+**Official page:** https://trivy.dev/
 
 ### Microsoft Defender for Cloud <a href="#what-is-microsoft-defender-for-cloud" id="what-is-microsoft-defender-for-cloud"></a>
 
@@ -166,7 +166,7 @@ Microsoft Defender for Cloud is a unified cloud-native application protection pl
 * Git repositories
 * Cloud resources running in AWS, Azure and Google Cloud
 
-**Official page:** [https://azure.microsoft.com/en-us/products/defender-for-cloud/](https://azure.microsoft.com/en-us/products/defender-for-cloud/)
+**Official page:** https://azure.microsoft.com/en-us/products/defender-for-cloud/
 
 ### BetterScan
 
@@ -187,7 +187,7 @@ A simple and powerful DevSecOps software to automate thousands of checks and eli
 * Security and Best Practices (Docker, Kubernetes (k8s), Terraform AWS, GCP, Azure)
 * Secret Scanning (166+ secret types)
 * YARA rules for Antidebug, Antivm, Crypto, CVE, Exploits Kits, Malware, Webshells, APTs, Dependency Confusion, Trojan Source
-* Open Source and Proprietary Checks, SBOM, dependencies, also precise Graph based analysis) and AI/OpenAI GPT
+* Open Source and Proprietary Checks, SBOM, dependencies, also precise Graph based analysis and AI/OpenAI GPT
 * SCA (software composition analysis) and Supply Chain Risks
 * Practically any Open Source and proprietary check can be added
 
@@ -204,7 +204,7 @@ A simple and powerful DevSecOps software to automate thousands of checks and eli
 Getting started is easy with this one too! See the [betterscan community edition repo](https://github.com/marcinguy/betterscan-ce) for getting the software and running it.
 {% endhint %}
 
-**Official page:** [https://www.betterscan.io/](https://www.betterscan.io/)
+**Official page:** https://www.betterscan.io/
 
 ## Other Tools / Solutions / Products
 
@@ -213,7 +213,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 ### Generic
 
 * [osquery](https://github.com/osquery/osquery) ([web](https://osquery.io/)): SQL powered operating system instrumentation, monitoring, and analytics.
-* [DefectDojo ](https://github.com/DefectDojo/django-DefectDojo)([web](https://www.defectdojo.com/)): a DevSecOps and vulnerability management tool.
+* [DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ([web](https://www.defectdojo.com/)): a DevSecOps and vulnerability management tool.
 * [StreamAlert](https://github.com/airbnb/streamalert) ([web](https://streamalert.io/)): a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define.
 * [graudit](https://github.com/wireghoul/graudit): grep rough audit - source code auditing tool.
 * [Sobelow](https://github.com/nccgroup/sobelow): security-focused static analysis for the Phoenix Framework.
@@ -228,14 +228,14 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 #### Web
 
 * [OWASP ZAP (Zed Attack Proxy)](https://www.zaproxy.org/): The world’s most widely used web app scanner. Free and open source.
-* [Dalfox ](https://github.com/hahwul/dalfox)([web](https://dalfox.hahwul.com/)): a powerful open-source XSS scanner and utility focused on automation.
+* [Dalfox](https://github.com/hahwul/dalfox) ([web](https://dalfox.hahwul.com/)): a powerful open-source XSS scanner and utility focused on automation.
 * [bunkerweb](https://github.com/bunkerity/bunkerweb) ([web](https://docs.bunkerweb.io/)): a web server based on the notorious NGINX and focused on security.
 * [CSP Evaluator](https://csp-evaluator.withgoogle.com/): CSP Evaluator allows developers and security experts to check if a Content Security Policy (CSP) serves as a strong mitigation against cross-site scripting attacks.
   * [Chrome extension](https://chrome.google.com/webstore/detail/csp-evaluator/fjohamlofnakbnbfjkohkbdigoodcejf)
 * [CSP Validator](https://cspvalidator.org/): validate CSP in headers and meta elements & validate and merge using intersect or union strategy.
 * [Csper](https://csper.io/): deploying and monitoring Content Security Policy a breeze. With automated tools and actionable insights, you'll be protecting your users in no time.
 * [Vulmap](https://github.com/zhzyker/vulmap/blob/main/readme.us-en.md) (English/Chinese): Web vulnerability scanning and verification tools.
-* TruffleSecurity [XSSHunter](https://github.com/trufflesecurity/xsshunter) ([web](https://xsshunter.trufflesecurity.com/https://xsshunter.trufflesecurity.com/)): the fastest way to set up XSS Hunter to test and find blind cross-site scripting vulnerabilities.
+* TruffleSecurity [XSSHunter](https://github.com/trufflesecurity/xsshunter) ([web](https://xsshunter.trufflesecurity.com)): the fastest way to set up XSS Hunter to test and find blind cross-site scripting vulnerabilities.
 * [Arachni](https://github.com/Arachni/arachni) ([web](https://www.arachni-scanner.com/)) (⚠️): web application security scanner framework.
 * [ecsypno SCNR](https://ecsypno.com/): web application security scanner framework (Arachni successor).
 
@@ -255,7 +255,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 #### JVM based
 
 * [OWASP Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs) ([web](https://find-sec-bugs.github.io/)): the SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects).
-* [SpotBugs ](https://github.com/spotbugs/spotbugs)([web](https://spotbugs.github.io/)): SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
+* [SpotBugs](https://github.com/spotbugs/spotbugs) ([web](https://spotbugs.github.io/)): SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 
 #### JavaScript
 
@@ -315,7 +315,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 
 #### WAF
 
-* [Coreruleset ](https://github.com/coreruleset/coreruleset)([web](https://coreruleset.org/)): OWASP ModSecurity Core Rule Set.
+* [Coreruleset](https://github.com/coreruleset/coreruleset) ([web](https://coreruleset.org/)): OWASP ModSecurity Core Rule Set.
 
 #### Security policy
 
@@ -353,7 +353,7 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
   * [CLI Version (as NuGet)](https://www.nuget.org/packages/Microsoft.Security.DevOps.Cli) - aka "Guardian"
   * [GitHub Action](https://github.com/marketplace/actions/security-devops-action)
   * [Azure DevOps extension](https://marketplace.visualstudio.com/items?itemName=ms-securitydevops.microsoft-security-devops-azdevops)
-* [ggshield ](https://github.com/GitGuardian/ggshield)([GitGuardian](https://www.gitguardian.com/)): find and fix hardcoded secrets and infrastructure-as-code misconfigurations.
+* [ggshield](https://github.com/GitGuardian/ggshield) ([GitGuardian](https://www.gitguardian.com/)): find and fix hardcoded secrets and infrastructure-as-code misconfigurations.
 
 ### Containers
 

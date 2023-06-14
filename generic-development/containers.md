@@ -30,7 +30,7 @@ Here are some Container security best practices \[1]\[2]\[3]\[4]\[5]:
 * [ ] Scan your container environments regularly (checkout the tools below)
 * [ ] Secure your code and its dependencies (checkout the [Static Analysis](../tools/static-analysis.md) section)
 * [ ] Manage all layers in between the base image and your code
-* [ ] Use access management (following the [principle of least privilege](https://www.crowdstrike.com/cybersecurity-101/principle-of-least-privilege-polp/https://www.crowdstrike.com/cybersecurity-101/principle-of-least-privilege-polp/))
+* [ ] Use access management (following the [principle of least privilege](https://www.crowdstrike.com/cybersecurity-101/principle-of-least-privilege-polp/))
 * [ ] Follow the [OWASP Docker Top 10 project](https://owasp.org/www-project-docker-top-10/https://owasp.org/www-project-docker-top-10/) points ([overview](https://github.com/OWASP/Docker-Security/blob/main/D00%20-%20Overview.md)):
   * [ ] [D01 - Secure User Mapping](https://github.com/OWASP/Docker-Security/blob/main/D01%20-%20Secure%20User%20Mapping.md)
   * [ ] [D02 - Patch Management Strategy](https://github.com/OWASP/Docker-Security/blob/main/D02%20-%20Patch%20Management%20Strategy.md)
@@ -83,7 +83,7 @@ Checkout the [dev-sec page](https://dev-sec.io/) and [GitHub](https://github.com
 * [Docker Bench for Security](https://github.com/docker/docker-bench-security): a script that checks for dozens of common best-practices around deploying Docker containers in production.&#x20;
 * Anchore [grype](https://github.com/anchore/grype): vulnerability scanner for container images and filesystems.
 * [Haskell Dockerfile Linter](https://github.com/hadolint/hadolint): a smarter Dockerfile linter that helps you build best practice Docker images.
-* [Dockle ](https://github.com/goodwithtech/dockle)([web](https://containers.goodwith.tech/)): container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start.
+* [Dockle ](https://github.com/goodwithtech/dockle) ([web](https://containers.goodwith.tech/)): container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start.
 * Quay [Clair](https://github.com/quay/clair) ([web](https://quay.io/)): is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker).
 * [Dive](https://github.com/wagoodman/dive) (⚠️): not a scanner itself (but could help), it's a tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image.
 * [Dagda](https://github.com/eliasgranderubio/dagda/) (⚠️): a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities.

@@ -18,7 +18,7 @@ Native Git is not secure. \[1]
 
 Here are some best practices to follow when working with Git \[1]\[2]\[3]:
 
-* [ ] Subscribe to [Git Vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor\_id-15815/product\_id-33590/Git-scm-GIT.html) and update frequently (there are alternatives, such as [HelixCore ](https://www.perforce.com/products/helix-core)to improve security)
+* [ ] Subscribe to [Git Vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor\_id-15815/product\_id-33590/Git-scm-GIT.html) and update frequently (there are alternatives, such as [HelixCore](https://www.perforce.com/products/helix-core) to improve security)
 * [ ] Never use shared, or system accounts for committing changes
 * [ ] Never use a privileged account to develop code and commit
 * [ ] Do NOT assume identity-based on username/email

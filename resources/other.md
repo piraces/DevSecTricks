@@ -78,7 +78,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Phylum](https://www.phylum.io/): the Software Supply Chain Security Company.
 * [Mandiant](https://www.mandiant.com/): dynamic cyber defense solutions by combining services and products powered by industry-leading expertise, intelligence and innovative technology.
 * [Metlo](https://www.metlo.com/): the open source API security platform.
-* [HummerRisk ](https://hummerrisk.com/)(Chinese): Cloud-Native Security Platform.
+* [HummerRisk](https://hummerrisk.com/) (Chinese): Cloud-Native Security Platform.
 * [Cider](https://www.cidersecurity.io/): control your application security from code to deployment.
 * [deepfence](https://deepfence.io/): Detect, Protect and Remediate Cloud Attacks.
 * [CrowdSec](https://www.crowdsec.net/): real-time & crowdsourced protection against aggressive IPs.
@@ -214,7 +214,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [My arsenal of AWS security tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools): list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
 * [How they SRE](https://github.com/upgundecha/howtheysre): a curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE).
 * [HolyTips](https://github.com/HolyBugx/HolyTips): a Collection of Notes, Checklists, Writeups on Bug Bounty Hunting and Web Application Security.
-* [CyberSecurityRSS ](https://github.com/zer0yu/CyberSecurityRSS)(English/Chinese): a collection of cybersecurity RSS.
+* [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) (English/Chinese): a collection of cybersecurity RSS.
 * [AI for security learning](https://github.com/404notf0und/AI-for-Security-Learning) (Chinese)
 * [Veracode Resources](https://www.veracode.com/resources): lots of resources in several formats from Veracode.
 

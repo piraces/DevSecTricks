@@ -22,14 +22,14 @@ Veracode offers intelligent software security to continuously find and fix flaws
 
 * Demo must be requested...
 
-More info: [https://www.veracode.com/contact-us](https://www.veracode.com/contact-us)
+More info: [veracode.com/contact-us](https://www.veracode.com/contact-us)
 
 #### Solutions/Products:
 
 * [Veracode Dynamic Analysis](https://www.veracode.com/products/dynamic-analysis-dast): Scan hundreds of web applications and APIs simultaneously. Leverage a dynamic analysis tool with a low false-positive rate to make it easy for security and development teams to understand what matters most. Empower the Team.
 * Other solutions/products & services can be found in the official page.
 
-**Official page:** [https://www.veracode.com/](https://www.veracode.com/)
+**Official page:** [veracode.com/](https://www.veracode.com/)
 
 ### invicti
 
@@ -40,7 +40,7 @@ invicti is a well-known enterprise with a "Application Security Testing" product
 * Free **trial**
 * Other paid plans (Pro and Enterprise)
 
-More info: [https://www.invicti.com/plans/](https://www.invicti.com/plans/)
+More info: [invicti.com/plans/](https://www.invicti.com/plans/)
 
 #### Solutions/Products
 
@@ -52,7 +52,7 @@ More info: [https://www.invicti.com/plans/](https://www.invicti.com/plans/)
   * Prevent vulnerabilities by producing more secure code
   * Seamlessly integrate with your current systems
 
-**Official page:** [https://www.invicti.com/](https://www.invicti.com/)
+**Official page:** [invicti.com](https://www.invicti.com/)
 
 ### Probely
 
@@ -63,7 +63,7 @@ Probely is a well-known enterprise with a "Web application and API vulnerability
 * Free "**lite plan"**
 * Other paid plans (Pro and Enterprise)
 
-More info:[ ](https://probely.com/pricing/)[https://probely.com/pricing/](https://probely.com/pricing/)
+More info: [probely.com/pricing/](https://probely.com/pricing/)
 
 #### Solutions/Products
 
@@ -76,7 +76,7 @@ More info:[ ](https://probely.com/pricing/)[https://probely.com/pricing/](https:
   * Compliance: PCI-DSS, OWASP TOP 10, ISO27001, HIPAA, and GDPR standards
   * Next-Generation Spider
 
-**Official page:** [https://probely.com/](https://probely.com/)
+**Official page:** [probely.com/](https://probely.com/)
 
 ### HCL AppScan
 
@@ -87,7 +87,7 @@ AppScan from [HCL](https://www.hcltechsw.com/) is a market-leading application s
 * Free **trial**
 * Request a demo or talk with sales...
 
-More info:[ ](https://probely.com/pricing/)[https://www.hcltechsw.com/appscan/contact-us](https://www.hcltechsw.com/appscan/contact-us)
+More info: [hcltechsw.com/appscan/contact-us](https://www.hcltechsw.com/appscan/contact-us)
 
 #### Solutions/Products
 
@@ -100,7 +100,7 @@ More info:[ ](https://probely.com/pricing/)[https://www.hcltechsw.com/appscan/co
 * **AppScan Source:**
   * Identify and remediate security vulnerabilities early in the development cycle using static application security testing.
 
-**Official page:** [https://www.hcltechsw.com/appscan](https://www.hcltechsw.com/appscan)
+**Official page:** [hcltechsw.com/appscan](https://www.hcltechsw.com/appscan)
 
 ### Synopsis WhiteHat Dynamic
 
@@ -110,10 +110,10 @@ WhiteHat Dynamic from [Synopsys](https://www.synopsys.com/) is part of the White
 
 * Request a demo or talk with sales...
 
-More info:[ ](https://probely.com/pricing/)
+More info: [probely.com/pricing/](https://probely.com/pricing/)
 
-* Demo: [https://www.synopsys.com/software-integrity/security-testing/dast/demo.html](https://www.synopsys.com/software-integrity/security-testing/dast/demo.html)
-* Sales: [https://www.synopsys.com/software-integrity/security-testing/dast/get-pricing.html](https://www.synopsys.com/software-integrity/security-testing/dast/get-pricing.html)
+* Demo: https://www.synopsys.com/software-integrity/security-testing/dast/demo.html
+* Sales: https://www.synopsys.com/software-integrity/security-testing/dast/get-pricing.html
 
 #### Solutions/Products
 
@@ -126,7 +126,7 @@ More info:[ ](https://probely.com/pricing/)
   * Always on
   * Powered by AI
 
-**Official page:** [https://www.synopsys.com/software-integrity/security-testing/dast.html](https://www.synopsys.com/software-integrity/security-testing/dast.html)
+**Official page:** https://www.synopsys.com/software-integrity/security-testing/dast.html
 
 ## Other Tools / Solutions / Products
 

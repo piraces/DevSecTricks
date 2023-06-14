@@ -122,7 +122,7 @@ Here is a list of common attacks to cover ourselves from:
   * [ ] Do NOT give hints in error messages to avoid enumeration attacks (be generic with error messages)
   * [ ] Protect against [automated attacks](https://cheatsheetseries.owasp.org/cheatsheets/Authentication\_Cheat\_Sheet.html#protect-against-automated-attacks) (see also [OWASP Credential Stuffing Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Credential\_Stuffing\_Prevention\_Cheat\_Sheet.html))
   * [ ] Log and monitor your authentication mechanism
-  * [ ] Use authentication protocos that follow standards if possible ([OAuth](https://oauth.net/), [OpenID](https://openid.net/), [SAML](https://auth0.com/intro-to-iam/what-is-saml), [FIDO](https://fidoalliance.org/), [Passkeys](https://www.passkeys.com/)...)
+  * [ ] Use authentication protocos that follow standards if possible ([OAuth](https://oauth.net/), [OpenID](https://openid.net/), [SAML](https://auth0.com/intro-to-iam/what-is-saml), [FIDO](https://fidoalliance.org/), [Passkeys](https://www.passkeys.com/) ...)
     * [ ] [SAML Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SAML\_Security\_Cheat\_Sheet.html)
   * [ ] Set `spellcheck="false"` in the HTML password field to avoid filtering the password (Spell-jacking)
   * [ ] Set `autocomplete="off"` if possible in the HTML password field
