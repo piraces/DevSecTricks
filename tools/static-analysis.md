@@ -133,6 +133,41 @@ Getting started is easy with this one! [See "Quick Start" documentation](https:/
 
 **Official page:** [https://trivy.dev/](https://trivy.dev/)
 
+### Microsoft Defender for Cloud <a href="#what-is-microsoft-defender-for-cloud" id="what-is-microsoft-defender-for-cloud"></a>
+
+Protect multicloud and hybrid environments with integrated security from code to cloud.
+
+Microsoft Defender for Cloud is a unified cloud-native application protection platform that helps strengthen your security posture, enables protection against modern threats, and helps reduce risk throughout the cloud application lifecycle across multicloud and hybrid environments.
+
+#### Pricing:
+
+* [Start free plan](https://azure.microsoft.com/en-us/free) with $200 credit to use within 30 days
+* See [Microsoft pricing page](https://azure.microsoft.com/en-us/pricing/details/defender-for-cloud/)
+
+#### Solutions/Products
+
+**AIO tool with multiple capabilities:**
+
+* Unified visibility of your security posture across Azure, AWS, Google Cloud, and hybrid clouds
+* Real-time security access and prioritization of the most critical risks with context-aware cloud security
+* Integrated extended detection and response (XDR) solution across multicloud workloads to prevent, detect, and respond to attacks
+* Centralized insights across multipipeline and multicloud DevOps to improve application development security
+
+**Targets:**
+
+* Containers
+* Container images
+* Databases
+* Storage
+* VMs
+* App Services (and other Azure services)
+* IaC
+* Source Code (scanning for CWE, dependencies, secrets and IaC)
+* Git repositories
+* Cloud resources running in AWS, Azure and Google Cloud
+
+**Official page:** [https://azure.microsoft.com/en-us/products/defender-for-cloud/](https://azure.microsoft.com/en-us/products/defender-for-cloud/)
+
 ### BetterScan
 
 A simple and powerful DevSecOps software to automate thousands of checks and eliminate human errors in Source Code and Cloud Infrastructure. Integrateable into anything.
@@ -314,6 +349,10 @@ Checkout [this awesome page](https://analysis-tools.dev/) (AnalysisTools) that c
 
 ### Multi-purpose
 
+* [Microsoft Defender for DevOps](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-devops-introduction) (part of Microsoft Defender for Cloud) ([web](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-devops)): uses a central console (in Azure) to empower security teams with the ability to protect applications and resources from code to cloud across multi-pipeline environments, such as GitHub and Azure DevOps. Findings from Defender for DevOps can then be correlated with other contextual cloud security insights to prioritize remediation in code.
+  * [CLI Version (as NuGet)](https://www.nuget.org/packages/Microsoft.Security.DevOps.Cli) - aka "Guardian"
+  * [GitHub Action](https://github.com/marketplace/actions/security-devops-action)
+  * [Azure DevOps extension](https://marketplace.visualstudio.com/items?itemName=ms-securitydevops.microsoft-security-devops-azdevops)
 * [ggshield ](https://github.com/GitGuardian/ggshield)([GitGuardian](https://www.gitguardian.com/)): find and fix hardcoded secrets and infrastructure-as-code misconfigurations.
 
 ### Containers

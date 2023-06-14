@@ -18,6 +18,7 @@ Source control is not a secure place to store secrets such as credentials, API k
 * [stacs](https://github.com/stacscan/stacs): a YARA powered static credential scanner which suports binary file formats, analysis of nested archives, composable rulesets and ignore lists, and SARIF reporting.
 * [git-hound](https://github.com/tillson/git-hound): Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos.
 * AWS Labs [git-secrets](https://github.com/awslabs/git-secrets): Prevents you from committing secrets and credentials into git repositories
+* GoDaddy [Tartufo](https://github.com/godaddy/tartufo) ([web](https://tartufo.readthedocs.io/en/stable/)): searches through git repositories for high entropy strings and secrets, digging deep into commit history
 * Yelp [detect-secrets](https://github.com/Yelp/detect-secrets): An enterprise friendly way of detecting and preventing secrets in code.
 * Auth0 [Repo-supervisor](https://github.com/auth0/repo-supervisor): a tool that helps you to detect secrets and passwords in your code.
 * [GitGuardian](https://www.gitguardian.com/v): secure your software development lifecycle with enterprise-grade secrets detection. Eliminate blind spots with our automated, battle-tested detection engine.

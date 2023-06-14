@@ -42,9 +42,26 @@
 ## ☁ Web Development
 
 * [Generic](web-development/generic.md)
-* [Frontend](web-development/frontend.md)
-* [Backend](web-development/backend/README.md)
-  * [APIs](web-development/backend/apis.md)
+* [APIs](web-development/apis.md)
+
+## ☁ Cloud
+
+* [Cloud native](cloud/cloud-native-developments.md)
+* [Kubernetes](cloud/kubernetes.md)
+
+## 📂 Languages
+
+* [JVM Based](languages/jvm-based/README.md)
+  * [Kotlin](languages/jvm-based/kotlin.md)
+  * [Java](languages/jvm-based/java.md)
+* [JavaScript](languages/javascript.md)
+* [Rust](languages/rust.md)
+* [Golang](languages/golang.md)
+* [Ruby](languages/ruby.md)
+* [Python](languages/python.md)
+* [PHP](languages/php.md)
+* [.NET](languages/.net/README.md)
+  * [.NET Framework](languages/.net/.net-framework.md)
 
 ## 📱 Mobile Development
 
@@ -63,25 +80,6 @@
 ## ⚙ Embedded Systems Development
 
 * [Generic](embedded-systems-development/generic.md)
-
-## ☁ Cloud
-
-* [Cloud native developments](cloud/cloud-native-developments.md)
-* [Kubernetes](cloud/kubernetes.md)
-
-## 📂 Languages
-
-* [JVM Based](languages/jvm-based/README.md)
-  * [Kotlin](languages/jvm-based/kotlin.md)
-  * [Java](languages/jvm-based/java.md)
-* [JavaScript](languages/javascript.md)
-* [Rust](languages/rust.md)
-* [Golang](languages/golang.md)
-* [Ruby](languages/ruby.md)
-* [Python](languages/python.md)
-* [PHP](languages/php.md)
-* [.NET](languages/.net/README.md)
-  * [.NET Framework](languages/.net/.net-framework.md)
 
 ## 😈 On the other side
 
