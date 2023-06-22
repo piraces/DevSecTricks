@@ -29,20 +29,18 @@ def find_links_in_markdown_files(directory) -> set[str]:
             links.extend(urls)
     return set(links)
 
+def clean_url(url: str) -> str:
+    replacements = [(':', ''), (',', ''), ('.', ''), ('\\', '')]
+    for old, new in replacements:
+        url = url.replace(old, new)
+    return url.rstrip(')')
+
 print(f'Current path {sys.argv[1]}')
 links = find_links_in_markdown_files(sys.argv[1])
 for url in links:
-    clean_url = url.strip()
-    clean_url = clean_url.replace('):', '')
-    clean_url = clean_url.replace('),', '')
-    clean_url = clean_url.replace(').', '')
-    clean_url = clean_url.replace('):', '')
-    clean_url = clean_url.replace('\\', '')
-    while clean_url.endswith(')'):
-        clean_url = clean_url[:-1]
-    print(f'- Archiving {clean_url}:')
-    # 'ls' is the command, '-l' is an argument to the command
-    result = subprocess.run(['wayback', '--ia', '--is', clean_url], stdout=subprocess.PIPE)
+    cleaned_url = clean_url(url.strip())
+    print(f'- Archiving {cleaned_url}:')
+    result = subprocess.run(['wayback', '--ia', cleaned_url], stdout=subprocess.PIPE)
 
     # result.stdout contains the output of the command as bytes
     print(result.stdout.decode('utf-8'))
