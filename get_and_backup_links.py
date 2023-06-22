@@ -44,12 +44,16 @@ def clean_url(url: str) -> str:
 
 print(f'Current path {sys.argv[1]}')
 links = find_links_in_markdown_files_and_sitemap(sys.argv[1], sys.argv[2])
-for url in links:
-    cleaned_url = clean_url(url.strip())
-    print(f'- Archiving {cleaned_url}:')
-    result = subprocess.run(['wayback', '--ia', cleaned_url], stdout=subprocess.PIPE)
+with open("links.txt", 'w') as f:
+    for url in links:
+        print(f'{clean_url(url.strip())} ')
+        f.write(f'{clean_url(url.strip())} ')
 
-    # result.stdout contains the output of the command as bytes
-    print(result.stdout.decode('utf-8'))
-    print('---')
+print('- Archiving from file:')
+result = subprocess.run(['wayback', 'links.txt'], stdout=subprocess.PIPE)
+
+# result.stdout contains the output of the command as bytes
+print(result.stdout.decode('utf-8'))
+
+print('---')
 

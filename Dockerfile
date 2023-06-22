@@ -13,4 +13,8 @@ COPY get_and_backup_links.py /
 RUN mkdir /app
 WORKDIR /app
 
+ENV WAYBACK_ENABLE_IS=false
+ENV WAYBACK_ENABLE_IP=false
+ENV WAYBACK_ENABLE_PH=false
+
 ENTRYPOINT ["python3", "-u", "/get_and_backup_links.py", "/app", "https://book.devsec.fyi/sitemap.xml"]

@@ -20,7 +20,7 @@ Then have a look to some of this visualization tools:
 
 * [Cloudflare](https://www.cloudflare.com/) offers ["Cloudflare Radar"](https://radar.cloudflare.com/) where you can see an instant overview of internet insights (some regarding security and attacks).
 * The [NIST (National Instutute of Standards and Technology)](https://www.nist.gov/) provides [multiple visualizations of it's vulnerability database.](https://nvd.nist.gov/general/visualizations)
-* [CheckPoint ](https://www.checkpoint.com/)offers [ThreatMap](https://threatmap.checkpoint.com/) where you can see attacks in real time, as well as attacks on the day of visit (tends to grow to millions a day).
+* [CheckPoint](https://www.checkpoint.com/) offers [ThreatMap](https://threatmap.checkpoint.com/) where you can see attacks in real time, as well as attacks on the day of visit (tends to grow to millions a day).
 * [Kaspersky](https://www.kaspersky.com/) offers [Cybermap](https://cybermap.kaspersky.com/), a realtime CyberTheat map.
 * [Radware](https://radware.com) offers [another live threat map](https://livethreatmap.radware.com/) worth to check out.
 * [NetScout](https://www.netscout.com/) offers [Horizon](https://horizon.netscout.com/), its own cyber threat real-time map.
