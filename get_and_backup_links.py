@@ -30,7 +30,7 @@ def find_links_in_markdown_files(directory) -> set[str]:
     return set(links)
 
 def clean_url(url: str) -> str:
-    replacements = [(':', ''), (',', ''), ('.', ''), ('\\', '')]
+    replacements = [('):', ''), ('),', ''), (').', ''), ('\\', '')]
     for old, new in replacements:
         url = url.replace(old, new)
     return url.rstrip(')')
