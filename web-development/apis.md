@@ -13,7 +13,6 @@ A foundational element of innovation in today’s app-driven world is the API. F
 * [ ] Take a look into these checklists:
   * [ ] [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
   * [ ] [OWASP API Security Top 10 Checklist](https://owasp.org/API-Security/editions/2023/en/0x00-toc/)
-  * [ ] [API Penetration Testing Checklist](https://www.owasp.org/images/3/37/OWASP\_Testing\_Checklist\_for\_APIs.pdf)
   * [ ] [RESTful API Security Checklist](https://github.com/ozgurozturknet/REST-API-Security-Checklist)
   * [ ] [API Security Audit Checklist](https://www.apicasystems.com/blog/api-security-audit-checklist/)
   * [ ] [OAuth 2.0 Security Checklist](https://www.oauth.com/playground/server-security)

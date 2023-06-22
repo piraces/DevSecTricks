@@ -35,7 +35,7 @@ Here are some best practices to follow when working with Git \[1]\[2]\[3]:
 * [ ] Sensitive data: NEVER store credentials as code/config in git
   * [ ] Block sensitive data from being pushed to the repositories by using tools such as [git-secrets](https://github.com/awslabs/git-secrets) or a [git pre-commt hook](https://githooks.com/)
   * [ ] Break builds if sensitive data is present
-  * [ ] Audit repositories from secrets with tools such as [Trufflehog](https://github.com/trufflesecurity/truffleHoghttps:/github.com/trufflesecurity/truffleHog)
+  * [ ] Audit repositories from secrets with tools such as [Trufflehog](https://github.com/trufflesecurity/truffleHog)
   * [ ] If Sensitive data reached the repo:
     * [ ] Invalidate tokens and passwords
     * [ ] Remove the info and clear the Git history (checkout [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/), [git filter-repo](https://github.com/newren/git-filter-repo) or the standard [git filter-branch](https://git-scm.com/docs/git-filter-branch), and also[ this document from GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository))
