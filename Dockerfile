@@ -9,7 +9,9 @@ RUN echo "deb [arch=amd64,arm64,armhf signed-by=/usr/share/keyrings/packages.wab
 RUN apt update && apt install wayback -y && rm -rf /var/lib/apt/lists/*
 
 COPY get_and_backup_links.py /
+COPY requirements.txt /
+RUN pip3 install -r /requirements.txt
 RUN mkdir /app
 WORKDIR /app
 
-ENTRYPOINT ["python3", "-u", "/get_and_backup_links.py", "/app"] # Path:to the main folder to scan
+ENTRYPOINT ["python3", "-u", "/get_and_backup_links.py", "/app", "https://book.devsec.fyi/sitemap.xml"]

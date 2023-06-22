@@ -2,6 +2,8 @@ import os
 import re
 import subprocess
 import sys
+import requests
+from xml.etree import ElementTree
 
 def find_markdown_files(directory):
     # Recursively find all markdown files in the directory
@@ -20,13 +22,18 @@ def extract_links(file_path):
         urls = re.findall(url_regex, content)
         return urls
 
-def find_links_in_markdown_files(directory) -> set[str]:
+def find_links_in_markdown_files_and_sitemap(directory, sitemap_url) -> set[str]:
     markdown_files = find_markdown_files(directory)
     links = []
     for file_path in markdown_files:
         urls = extract_links(file_path)
         if urls:
             links.extend(urls)
+
+    response = requests.get(sitemap_url)
+    tree = ElementTree.fromstring(response.content)
+    urls_sitemap = [element.text for element in tree.iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')]
+    links.extend(urls_sitemap)
     return set(links)
 
 def clean_url(url: str) -> str:
@@ -36,7 +43,7 @@ def clean_url(url: str) -> str:
     return url.rstrip(')')
 
 print(f'Current path {sys.argv[1]}')
-links = find_links_in_markdown_files(sys.argv[1])
+links = find_links_in_markdown_files_and_sitemap(sys.argv[1], sys.argv[2])
 for url in links:
     cleaned_url = clean_url(url.strip())
     print(f'- Archiving {cleaned_url}:')
