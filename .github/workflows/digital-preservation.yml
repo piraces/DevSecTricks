@@ -1,0 +1,16 @@
+name: Archive content
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the Docker image
+      run: docker build . --file Dockerfile --tag devsec:latest
+    - name: Run the archive process
+      run: docker run -v .:/app devsec
