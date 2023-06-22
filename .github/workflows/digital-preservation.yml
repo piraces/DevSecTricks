@@ -1,16 +1,14 @@
 name: Archive content
 
 on:
-  push:
-    branches: [ "main" ]
+  schedule:
+    - cron: '30 0 * * *'
   workflow_dispatch:
     
 jobs:
-  build:
+  archive:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag devsec:latest
     - name: Run the archive process
-      run: docker run -v .:/app devsec
+      run: docker run -v ${PWD}:/app ghcr.io/piraces/devsectricks:main
