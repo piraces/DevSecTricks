@@ -34,6 +34,26 @@ The overall aim is to create a culture where everyone is responsible for securit
 3. [GitHub Blog - Leaked a secret? Check your GitHub alerts…for free](https://github.blog/2022-12-15-leaked-a-secret-check-your-github-alerts-for-free/)
 4. [debricked blog - Vulnerabilities in Dependencies, Third Party Components and Open Source: What you need to know](https://debricked.com/blog/vulnerabilities-dependencies/)
 
+### Digital preservation
+
+Due to the large amount of information and external links that could be stored in this "book", there is a daily process based in GitHub Actions ([see the action](https://github.com/piraces/DevSecTricks/actions/workflows/digital-preservation.yml)) that archives in the [Internet Archive](https://archive.org/) all pages with the external links too.
+
+This process allows us to always make available these pages and every referenced page in them, accesible and navigable at any time with multiple "versions" or snapshots.
+
+So do not worry if a link goes down, a blog post gets deleted, some repository is made private or not available any more, we have all covered.
+
+If you find yourself in that situation you can access the page by entering the following URL in your browser:
+
+```
+https://web.archive.org/{URL}
+```
+
+Where {URL} is the raw URL you are trying to access.
+
+You can also use the [Wayback Machine UI](https://web.archive.org/) directly.
+
+Please, if you find these functionality useful, consider [donating to the Internet Archive](https://archive.org/donate) (they do a very great work).
+
 ### License
 
 **Copyright (c) 2023 Raúl Piracés Alastuey.** **Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**DevSecTricks**](https://github.com/piraces/DevSecTricks) **by Raúl Piracés is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/) **.**\
