@@ -6,6 +6,7 @@ on:
     paths:
       - 'Dockerfile'
       - '**.py'
+      - 'requirements.txt'
   workflow_dispatch:
 
 env:
