@@ -52,7 +52,7 @@ Where {URL} is the raw URL you are trying to access.
 
 You can also use the [Wayback Machine UI](https://web.archive.org/) directly.
 
-Please, if you find these functionality useful, consider [donating to the Internet Archive](https://archive.org/donate) (they do a very great work).
+Please, if you find these functionality useful, consider [donating to the Internet Archive](https://archive.org/donate) (they do a very great work)...
 
 ### License
 
