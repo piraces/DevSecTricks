@@ -31,8 +31,18 @@ Podcasts with the symbol ⚠️ are not publishing new episodes for now
 * [BeerSecOps](https://beersecops.com/) by aqua (⚠️):
   * [Spotify](https://open.spotify.com/show/52ZbO0ZuUDrXqV8WyWgHMJ)
   * [Apple Podcasts](https://podcasts.apple.com/us/podcast/beersecops/id1483587726)
+* [The Secure Developer](https://www.heavybit.com/library/podcasts/the-secure-developer/): A podcast that discusses security best practices for developers, including API security topics.
+* [Application Security Weekly](https://securityweekly.com/shows/appsec-weekly/): A weekly podcast covering application security news, including API security updates.
+* [The New Stack Podcast](https://thenewstack.io/podcasts/): A podcast that covers various technology topics, occasionally featuring API security discussions.
+* [The CyberWire Daily Podcast](https://thecyberwire.com/podcasts/daily-podcast): A daily cybersecurity news podcast that occasionally discusses API security.
+* [Security Now](https://twit.tv/shows/security-now): A weekly podcast discussing a wide range of security topics, including API security.
+* [Darknet Diaries](https://darknetdiaries.com/): A podcast that tells true stories from the dark side of the internet, occasionally featuring episodes about API security incidents.
+* [Risky Business](https://risky.biz/netcasts/risky-business/): A podcast that covers information security news and events, sometimes discussing API security.
+* [Smashing Security](https://www.smashingsecurity.com/): A cybersecurity podcast that occasionally discusses API security topics.
+* [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html): A podcast focusing on privacy, security, and open-source intelligence topics, occasionally featuring API security discussions.
 
 ### Sources
 
 * [TaptuIT/awesome-devsecops: Curating the best DevSecOps resources and tooling. (github.com)](https://github.com/TaptuIT/awesome-devsecops#wikis)
 * [paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)
+* [JBAhire/awesome-api-security-essentials](https://github.com/JBAhire/awesome-api-security-essentials)
