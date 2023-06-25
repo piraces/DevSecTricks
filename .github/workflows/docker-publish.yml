@@ -1,4 +1,4 @@
-name: Docker archive image creation
+name: Docker archive helper image creation
 
 on:
   push:
