@@ -7,8 +7,17 @@ on:
     
 jobs:
   archive:
+    strategy:
+      matrix:
+        url: ["https://book.devsec.fyi/cloud/cloud-native-developments","https://book.devsec.fyi/desktop-development/hybrid","https://book.devsec.fyi/generic-development/cryptography","https://book.devsec.fyi/on-the-other-side/red-team","https://book.devsec.fyi/resources/books","https://book.devsec.fyi/resources/training","https://book.devsec.fyi/tools/dependency-management","https://book.devsec.fyi/languages/golang","https://book.devsec.fyi/languages/javascript","https://book.devsec.fyi/mobile-development/android","https://book.devsec.fyi/tools/infrastructure-as-code-iac","https://book.devsec.fyi/desktop-development/linux","https://book.devsec.fyi/tools/static-analysis","https://book.devsec.fyi/tools/supply-chain","https://book.devsec.fyi/resources/conferences","https://book.devsec.fyi/tools/secrets/secrets-management", "https://book.devsec.fyi/web-development/apis","https://book.devsec.fyi/languages/.net/.net-framework","https://book.devsec.fyi/web-development/generic","https://book.devsec.fyi/desktop-development/others","https://book.devsec.fyi/resources/sites","https://book.devsec.fyi/resources/institutions","https://book.devsec.fyi/languages/jvm-based","https://book.devsec.fyi/languages/jvm-based/kotlin","https://book.devsec.fyi/welcome/glossary","https://book.devsec.fyi/languages/.net","https://book.devsec.fyi/resources/communities","https://book.devsec.fyi/tools/secrets","https://book.devsec.fyi/desktop-development/macos","https://book.devsec.fyi/embedded-systems-development/generic","https://book.devsec.fyi/languages/ruby","https://book.devsec.fyi/generic-development/security-basics","https://book.devsec.fyi/languages/python","https://book.devsec.fyi/cloud/kubernetes","https://book.devsec.fyi/languages/rust","https://book.devsec.fyi/mobile-development/ios","https://book.devsec.fyi/resources/podcasts","https://book.devsec.fyi/generic-development/git-and-others","https://book.devsec.fyi/languages/php","https://book.devsec.fyi/welcome/discussions","https://book.devsec.fyi/mobile-development/hybrid-applications","https://book.devsec.fyi/welcome/readme","https://book.devsec.fyi/resources/articles","https://book.devsec.fyi/welcome/contributing","https://book.devsec.fyi/resources/other","https://book.devsec.fyi/languages/jvm-based/java","https://book.devsec.fyi/desktop-development/windows","https://book.devsec.fyi/tools/dynamic-analysis","https://book.devsec.fyi/tools/secrets/secrets-scanning","https://book.devsec.fyi/generic-development/containers","https://book.devsec.fyi/tools/vulnerabilities-analysis","https://book.devsec.fyi/tools/other"]
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    - name: Run the archive process
-      run: docker run -v ${PWD}:/app ghcr.io/piraces/devsectricks:main
+    - name: Wayback Machine
+      uses: JamieMagee/wayback@v1
+      with:
+        url: ${{ matrix.url }}
+        saveErrors: false
+        saveOutlinks: true
+        saveScreenshot: true
+      
+
