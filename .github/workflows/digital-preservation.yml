@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Wayback Machine
-      uses: JamieMagee/wayback@v1
+      uses: JamieMagee/wayback@main
       with:
         url: ${{ matrix.url }}
         saveErrors: false
