@@ -40,7 +40,7 @@ Are you more concerned now?
 
 Great. Let's improve this situation...
 
-**A good starting point is to look at [OWASP Top Ten](https://owasp.org/www-project-top-ten/), these are the main application security risks that are most important nowadays. The goal is to minimise these risks.**
+**A good starting point is to look at** [**OWASP Top Ten**](https://owasp.org/www-project-top-ten/)**, these are the main application security risks that are most important nowadays. The goal is to minimise these risks.**
 
 ## Secure Coding Practices
 
@@ -69,7 +69,7 @@ From the last bullet point, make sure you are following this coding practices:
 
 * [ ] **Use tested and approved managed code** rather than creating new unmanaged code for common tasks.
 * [ ] Utilize task specific built-in APIs to conduct operating system tasks. **Do not allow the application to issue commands directly to the Operating System, especially through the use of application initiated command shells**.
-* [ ] **Use [checksums](https://en.wikipedia.org/wiki/Checksum) or hashes to verify the integrity** of interpreted code, libraries, executables, and configuration files.
+* [ ] **Use** [**checksums**](https://en.wikipedia.org/wiki/Checksum) **or hashes to verify the integrity** of interpreted code, libraries, executables, and configuration files.
 * [ ] Utilize locking to prevent multiple simultaneous requests or use a synchronization mechanism to **prevent race conditions**.
 * [ ] **Protect shared variables and resources** from inappropriate concurrent access.
 * [ ] **Explicitly initialize all your variables and other data stores**, either during declaration or just before the first usage.
@@ -84,8 +84,4 @@ From the last bullet point, make sure you are following this coding practices:
 
 You don't have to do all of this without help!
 
-Look for professionals, professional enterprise ready tools and solutions. awesome OSS projects and others in other sections of this page:
-
-* [Broken link](broken-reference "mention")
-* [Broken link](broken-reference "mention")
-
+Look for professionals, professional enterprise ready tools and solutions. awesome OSS projects and others in other sections of this page...
