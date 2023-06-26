@@ -53,7 +53,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Rapid7](https://www.rapid7.com/): A powerful, practitioner-first approach for comprehensive, operationalized risk & threat response and results.
 * [Cloudflare](https://www.cloudflare.com/): a global network designed to make everything you connect to the Internet secure, private, fast, and reliable. Secure your websites, APIs, and Internet applications. Protect corporate networks, employees, and devices. Write and deploy code that runs on the network edge.
 * [NCC Group](https://www.nccgroup.com/): several solutions.
-* [Aqua](https://www.aquasec.com/): several solutions and tools (some open source).&#x20;
+* [Aqua](https://www.aquasec.com/): several solutions and tools (some open source).
 * [Anchore](https://anchore.com/): Software Supply Chain Security.
 * [Synopsis](https://www.synopsys.com/): software security - helps you protect your bottom line by building trust in your software.
 * [Tarlogic](https://www.tarlogic.com/): one of the leading European providers of cybersecurity services. A technical team of top-level specialists and state-of-the-art solutions to provide auditing, pentesting, vulnerability management, and incident response services.
@@ -148,7 +148,11 @@ Outdated resources are marked with the symbol: ⚠️
 ### "Awesome" Lists
 
 * [Main Awesome repo (Security section)](https://github.com/sindresorhus/awesome#security)
-* [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
+* [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) by 4ndersonLin
+* [Awesome Cloud Security (Chinese)](https://github.com/teamssix/awesome-cloud-security) by TeamSix
+* [Awesome Cloud Security](https://github.com/Funkmyster/awesome-cloud-security) by Funkymyster
+* [Awesome Cloud Native Security](https://github.com/Metarget/awesome-cloud-native-security)
+* [Awesome Cloud Cost Control](https://github.com/Funkmyster/awesome-cloud-cost-control)
 * [Awesome Game Security](https://github.com/gmh5225/awesome-game-security/#readme)
 * [Awesome IoT Hacks](https://github.com/nebgnahz/awesome-iot-hacks)
 * [Awesome Golang Security](https://github.com/guardrailsio/awesome-golang-security)
@@ -179,6 +183,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Awesome YARA](https://github.com/InQuest/awesome-yara)
 * [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
 * [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis/)
+* [Awesome IAM List](https://github.com/kdeldycke/awesome-iam)
 
 ### Checklists
 

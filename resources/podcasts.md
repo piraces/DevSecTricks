@@ -40,6 +40,7 @@ Podcasts with the symbol ⚠️ are not publishing new episodes for now
 * [Risky Business](https://risky.biz/netcasts/risky-business/): A podcast that covers information security news and events, sometimes discussing API security.
 * [Smashing Security](https://www.smashingsecurity.com/): A cybersecurity podcast that occasionally discusses API security topics.
 * [The Privacy, Security, & OSINT Show](https://inteltechniques.com/podcast.html): A podcast focusing on privacy, security, and open-source intelligence topics, occasionally featuring API security discussions.
+* [Azure DevOps Podcast](http://azuredevopspodcast.clear-measure.com/)
 
 ### Sources
 
