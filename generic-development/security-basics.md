@@ -84,4 +84,4 @@ From the last bullet point, make sure you are following this coding practices:
 
 You don't have to do all of this without help!
 
-Look for professionals, professional enterprise ready tools and solutions. awesome OSS projects and others in other sections of this page...
+Look for professionals, professional enterprise ready tools and solutions. awesome OSS projects and others in other sections of this page.
