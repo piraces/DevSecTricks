@@ -49,38 +49,6 @@
 * [Cloud native](cloud/cloud-native-developments.md)
 * [Kubernetes](cloud/kubernetes.md)
 
-## 📂 Languages
-
-* [JVM Based](languages/jvm-based/README.md)
-  * [Kotlin](languages/jvm-based/kotlin.md)
-  * [Java](languages/jvm-based/java.md)
-* [JavaScript](languages/javascript.md)
-* [Rust](languages/rust.md)
-* [Golang](languages/golang.md)
-* [Ruby](languages/ruby.md)
-* [Python](languages/python.md)
-* [PHP](languages/php.md)
-* [.NET](languages/.net/README.md)
-  * [.NET Framework](languages/.net/.net-framework.md)
-
-## 📱 Mobile Development
-
-* [Android](mobile-development/android.md)
-* [iOS](mobile-development/ios.md)
-* [Hybrid Applications](mobile-development/hybrid-applications.md)
-
-## 🖥 Desktop Development
-
-* [Windows](desktop-development/windows.md)
-* [macOS](desktop-development/macos.md)
-* [Linux](desktop-development/linux.md)
-* [Hybrid](desktop-development/hybrid.md)
-* [Others](desktop-development/others.md)
-
-## ⚙ Embedded Systems Development
-
-* [Generic](embedded-systems-development/generic.md)
-
 ## 😈 On the other side
 
 * [Red team](on-the-other-side/red-team.md)

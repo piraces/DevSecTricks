@@ -155,8 +155,8 @@ Find here a complete list of resources related to cloud security.
 * [Terrascan](https://github.com/accurics/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 * [tfsec](https://github.com/liamg/tfsec): Static analysis powered security scanner for Terraform code.
 * [Zeus](https://github.com/DenizParlak/Zeus): AWS Auditing & Hardening Tool.
-* [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark)
-* [AWS Missing Tools by CloudAvail](https://github.com/cloudavail/aws-missing-tools)
+* [AWS Security Benchmark](https://github.com/awslabs/aws-security-benchmark) (⚠️): Open source demos, concept and guidance related to the AWS CIS Foundation framework.
+* [AWS Missing Tools by CloudAvail](https://github.com/cloudavail/aws-missing-tools) (⚠️): tools for managing AWS resources including EC2, EBS, RDS, IAM, CloudFormation and Route53.
 
 #### Container
 
@@ -164,22 +164,21 @@ Find here a complete list of resources related to cloud security.
 * [Falco](https://github.com/falcosecurity/falco): Container runtime security.
 * [mkit](https://github.com/darkbitio/mkit): Managed kubernetes inspection tool.
 * [Open policy agent](https://www.openpolicyagent.org/): Policy-based control tool.
-* [Anchore Engine](https://github.com/anchore/anchore-engine)
-* [Grype](https://github.com/anchore/grype)
-* [Kai](https://github.com/anchore/kai)
-* [Syft](https://github.com/anchore/syft)
-* [Cloudsploit](https://github.com/aquasecurity/cloudsploit)
-* [Kube-Bench](https://github.com/aquasecurity/kube-bench)
-* [Kube-Hunter](https://github.com/aquasecurity/kube-hunter)
-* [Kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can)
-* [Trivy](https://github.com/aquasecurity/trivy)
-* [Docker - Docker Bench for Security](https://github.com/docker/docker-bench-security)
-* [Elias - Dagda](https://github.com/eliasgranderubio/dagda/)
-* [Falco Security - Falco](https://github.com/falcosecurity/falco)
-* [Harbor - Harbor](https://github.com/goharbor/harbor)
-* [Quay - Clair](https://github.com/quay/clair)
-* [Snyk - Snyk](https://github.com/snyk/snyk)
-* [vchinnipilli - Kubestriker](https://github.com/vchinnipilli/kubestriker)
+* [Grype](https://github.com/anchore/grype): A vulnerability scanner for container images and filesystems.
+* [Kai](https://github.com/anchore/kai): KAI (Kubernetes Automated Inventory) can poll Kubernetes Cluster API(s) to tell Anchore which Images are currently in-use.
+* [Syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems.
+* [Cloudsploit](https://github.com/aquasecurity/cloudsploit): Cloud Security Posture Management (CSPM).
+* [Kube-Bench](https://github.com/aquasecurity/kube-bench): Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.
+* [Kube-Hunter](https://github.com/aquasecurity/kube-hunter): Hunt for security weaknesses in Kubernetes clusters.
+* [Kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can): Show who has RBAC permissions to perform actions on different resources in Kubernetes.
+* [Trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more.
+* [Docker - Docker Bench for Security](https://github.com/docker/docker-bench-security): The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+* [Elias - Dagda](https://github.com/eliasgranderubio/dagda/): a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities.
+* [Falco Security - Falco](https://github.com/falcosecurity/falco): Cloud Native Runtime Security.
+* [Harbor - Harbor](https://github.com/goharbor/harbor): An open source trusted cloud native registry project that stores, signs, and scans content.
+* [Quay - Clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers.
+* [Snyk - Snyk](https://github.com/snyk/snyk): Snyk CLI scans and monitors your projects for security vulnerabilities.
+* [vchinnipilli - Kubestriker](https://github.com/vchinnipilli/kubestriker): A Blazing fast Security Auditing tool for Kubernetes.
 
 #### SaaS
 
@@ -196,13 +195,13 @@ Find here a complete list of resources related to cloud security.
 * [S3 Inspector](https://github.com/kromtech/s3-inspector): Tool to check AWS S3 bucket permissions.
 * [Serverless Goat](https://github.com/OWASP/Serverless-Goat): A serverless application demonstrating common serverless security flaws.
 * [SkyArk](https://github.com/cyberark/SkyArk): Tool to helps to discover, assess and secure the most privileged entities in Azure and AWS.
-* [Terraform for Policy Guru](https://github.com/salesforce/terraform-provider-policyguru)
-* [Aardvark](https://github.com/Netflix-Skunkworks/aardvark)
-* [PolicyUniverse](https://github.com/Netflix-Skunkworks/policyuniverse)
-* [Repokid](https://github.com/Netflix/Repokid)
-* [AWS IAM Generator](https://github.com/awslabs/aws-iam-generator)
-* [Parliament](https://github.com/duo-labs/parliament)
-* [CloudTracker](https://github.com/duo-labs/cloudtracker)
+* [Terraform for Policy Guru](https://github.com/salesforce/terraform-provider-policyguru) (⚠️): Terraform provider for Policy Sentry (IAM least privilege generator and auditor).
+* [Aardvark](https://github.com/Netflix-Skunkworks/aardvark): Aardvark is a multi-account AWS IAM Access Advisor API.
+* [PolicyUniverse](https://github.com/Netflix-Skunkworks/policyuniverse): Parse and Process AWS IAM Policies, Statements, ARNs, and wildcards.
+* [Repokid](https://github.com/Netflix/Repokid) (⚠️): AWS Least Privilege for Distributed, High-Velocity Deployment.
+* [AWS IAM Generator](https://github.com/awslabs/aws-iam-generator) (⚠️): Generate Multi-Account IAM users/groups/roles/policies from a simple YAML configuration file and Jinja2 templates.
+* [Parliament](https://github.com/duo-labs/parliament): AWS IAM linting library.
+* [CloudTracker](https://github.com/duo-labs/cloudtracker) (⚠️): CloudTracker helps you find over-privileged IAM users and roles by comparing CloudTrail logs with current IAM policies.
 
 #### Native tools
 
