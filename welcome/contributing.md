@@ -8,6 +8,10 @@ As you can see, lots of topics, tools and other things are covered all around th
 
 Contributions are always appreciated, you can propose an edit at any time, in any page, while reading, in GitHub, in this same page... Adding / editing to this page is meant to be easy to anyone, so please go ahead if you will!
 
+{% hint style="warning" %}
+Please review the content of [CONTRIBUTING.md](../CONTRIBUTING.md) in GitHub for more detailed instructions on how to contribute to this repository.
+{% endhint %}
+
 {% hint style="info" %}
 If you found a problem that cannot be solved by a PR or needs additional help, please [open an issue in the main repository at GitHub](https://github.com/piraces/DevSecTricks/issues).
 {% endhint %}

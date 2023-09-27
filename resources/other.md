@@ -59,6 +59,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [Tarlogic](https://www.tarlogic.com/): one of the leading European providers of cybersecurity services. A technical team of top-level specialists and state-of-the-art solutions to provide auditing, pentesting, vulnerability management, and incident response services.
 * [cipher](https://cipher.com/): a global cybersecurity company that delivers a wide range of services: Managed Detection and Response (MDR), Managed Security Services (MSS), Cyber Intelligence Services (CIS), Red Team Services (RTS), Governance, Risk and Compliance (GRC) and Cybersecurity Technology Integration (CTI).
 * [Yogosha](https://yogosha.com/): One platform to secure them all.
+* [Splunk](https://www.splunk.com/): Keep your digital systems securely up and running Fend off threat actors. Diminish downtime. Fix issues faster. Do it all with Splunk, the key to enterprise resilience.
 * [Byron Labs](https://byronlabs.io/): team of experts use cutting-edge technology to analyze darknets and provide Threat Intelligence solutions to keep your business safe from cyber attacks.
 * [Wise security global](https://wsg127.com/): To protect the activity of our customers by generating reliable and secure cyber environments that allow them to maintain and improve the trust of their stakeholders.
 * [Outpost24](https://outpost24.com/): Outpost24's intelligence-led cyber risk management solution makes it easy to identify security gaps in your attack surface and prioritize vulnerabilities that matter.
@@ -142,6 +143,7 @@ Outdated resources are marked with the symbol: ⚠️
 * [PurpleBox](https://www.prplbx.com/): Empower your team with cybersecurity solutions that work in harmony and help you detect, protect, respond and recover from cyberattacks (Vulnerability Management, Penetration testing, Risk and Compilance, Endpoint security, Web App firewall, Cloud Security, etc.).
 * [Dig Security](https://www.dig.security/): Real-time visibility, control, and protection of data assets across any cloud with data security posture management (DSPM). Dig allows you to protect all the data that matters without giving up cloud agility and speed.
 * [Halborn](https://www.halborn.com/): Elite Blockchain Security Solutions.
+* [Prancer](https://www.prancer.io/): All-in-One Platform: fully automated solution streamlines discovering applications, APIs, and infrastructure, conducting threat emulation through automated penetration testing, validating zero-trust principles, intelligent API Security, checking the codes, and finally assessing risks and correlating findings, all while providing actionable remediation and reporting.
 
 ## Lists
 
